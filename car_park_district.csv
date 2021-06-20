@@ -1,0 +1,1690 @@
+park_id,name_en,name_tc,name_sc,displayAddress_en,displayAddress_tc,displayAddress_sc,latitude,longitude,district_en,district_tc,district_sc,contactNo,opening_status,height,remark_en,remark_tc,remark_sc,carpark_photo
+tdc1p1,Lee Garden One Car Park,利園一期停車場,利园一期停车场,"33 HYSAN AVENUE, Wan Chai District, Hong Kong",香港 灣仔區 希慎道33號,香港 湾仔区 希慎道33号,22.27859811,114.18479255,Wan Chai,灣仔區,湾仔区,,open,2.0,"Height Limit: 
+Electric Vehicle Charging Service is now available at B3/F of Lee Garden One Car Park (1 no.), B1/F of Lee Garden Two Car Park (1 no.) and 4/F of Leighton Car Park (1 no.).<br><br>Tesla Superchargers are also in service on the B3/F of Lee Garden One Car Park (2 nos.).","高度限制: 
+3個電動車充電服務已分別於利園一期停車場B3樓(1個)、利園二期停車場B1樓(1個)及禮頓中心停車場4樓(1個)正式投入服務。<br><br>2個Tesla Supercharger現也於利園一期停車場B3樓正式投入服務。","高度限制: 
+3个电动车充电服务已分别于利园一期停车场B3楼(1个)、利园二期停车场B1楼(1个)及礼顿中心停车场4楼(1个)正式投入服务。<br><br>2个Tesla Supercharger现也于利园一期停车场B3楼正式投入服务。",http://resource.data.one.gov.hk/td/carpark/tdc1p1.jpg
+tdc1p3,Leighton Car Park,禮頓中心停車場,礼顿中心停车场,"77 LEIGHTON ROAD, Wan Chai District, Hong Kong",香港 灣仔區 禮頓道77號,香港 湾仔区 礼顿道77号,22.27776811,114.18310035,Wan Chai,灣仔區,湾仔区,,open,1.9,"Height Limit: 
+Electric Vehicle Charging Service is now available at B3/F of Lee Garden One Car Park (1 no.), B1/F of Lee Garden Two Car Park (1 no.) and 4/F of Leighton Car Park (1 no.).<br><br>Tesla Superchargers are also in service on the B3/F of Lee Garden One Car Park (2 nos.).","高度限制: 
+3個電動車充電服務已分別於利園一期停車場B3樓(1個)、利園二期停車場B1樓(1個)及禮頓中心停車場4樓(1個)正式投入服務。<br><br>2個Tesla Supercharger現也於利園一期停車場B3樓正式投入服務。","高度限制: 
+3个电动车充电服务已分别于利园一期停车场B3楼(1个)、利园二期停车场B1楼(1个)及礼顿中心停车场4楼(1个)正式投入服务。<br><br>2个Tesla Supercharger现也于利园一期停车场B3楼正式投入服务。",http://resource.data.one.gov.hk/td/carpark/tdc1p3.jpg
+tdc1p2,Lee Garden Two Car Park,利園二期停車場,利园二期停车场,"28 YUN PING ROAD, Wan Chai District, Hong Kong",香港 灣仔區 恩平道28號,香港 湾仔区 恩平道28号,22.27825194,114.18594438,Wan Chai,灣仔區,湾仔区,,open,2.1,"Height Limit: 
+Electric Vehicle Charging Service is now available at B3/F of Lee Garden One Car Park (1 no.), B1/F of Lee Garden Two Car Park (1 no.) and 4/F of Leighton Car Park (1 no.).<br><br>Tesla Superchargers are also in service on the B3/F of Lee Garden One Car Park (2 nos.).","高度限制: 
+3個電動車充電服務已分別於利園一期停車場B3樓(1個)、利園二期停車場B1樓(1個)及禮頓中心停車場4樓(1個)正式投入服務。<br><br>2個Tesla Supercharger現也於利園一期停車場B3樓正式投入服務。","高度限制: 
+3个电动车充电服务已分别于利园一期停车场B3楼(1个)、利园二期停车场B1楼(1个)及礼顿中心停车场4楼(1个)正式投入服务。<br><br>2个Tesla Supercharger现也于利园一期停车场B3楼正式投入服务。",http://resource.data.one.gov.hk/td/carpark/tdc1p2.jpg
+tdc2p1,Car Park 1 (Hourly),一號停車埸(時租),一号停车埸(时租)," CHEONG SHUN ROAD, Islands District, New Territories",新界 離島區 暢順路號,新界 离岛区 畅顺路号,22.31322343,113.9366562,Islands,離島區,离岛区,2183 4630,open,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p1.jpg
+tdc2p4,Car Park 4 - Indoor Zone (Hourly),四號停車埸-室內區(時租),四号停车埸-室内区(时租),"11 CHEONG TAT ROAD, Islands District, New Territories",新界 離島區 暢達路11號,新界 离岛区 畅达路11号,22.31773139,113.93404192,Islands,離島區,离岛区,2183 4630,open,2.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p4.jpg
+tdc2p5,Car Park 4 - Indoor Zone (Long-term),四號停車埸-室內區(長期停放),四号停车埸-室内区(长期停放),"11 CHEONG TAT ROAD, Islands District, New Territories",新界 離島區 暢達路11號,新界 离岛区 畅达路11号,22.31844975,113.93437125,Islands,離島區,离岛区,2183 4630,open,2.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p5.jpg
+tdc2p6,Car Park 4 - Outdoor Zone (Hourly),四號停車埸-露天區(時租),四号停车埸-露天区(时租),"11 CHEONG TAT ROAD, Islands District, New Territories",新界 離島區 暢達路11號,新界 离岛区 畅达路11号,22.31821796,113.93399697,Islands,離島區,离岛区,2183 4630,open,2.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p6.jpg
+tdc2p7,Car Park 4 - Outdoor Zone (Long-term),四號停車埸-露天區(長期停放),四号停车埸-露天区(长期停放),"11 CHEONG TAT ROAD, Islands District, New Territories",新界 離島區 暢達路11號,新界 离岛区 畅达路11号,22.31797036,113.93412819,Islands,離島區,离岛区,2183 4630,open,2.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p7.jpg
+tdcp2,Rumsey Street Car Park,林士街停車場,林士街停车场,"2 Rumsey Street, Sheung Wan, Hong Kong",香港上環林士街2號,香港上环林士街2号,22.28740848,114.15322694,Central & Western,中西區,中西区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $23 per hour (private car)<br>23:00 - 07:00 $17 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $180 (private car)<br>Sunday to Public holiday from 08:00 - 00:00 $120 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>Monday to Saturday from 19:00 - 07:00 $65 (private car)<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Quarterly $12150 (private car)<br>Quarterly $1020 (motorcycles)<br>Quarterly $1890 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $23 (私家車)<br>23:00 - 07:00 每小時 $17 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家車)<br>星期日及公眾假期 08:00 - 00:00 $120 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家車)<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每季 $12150 (私家車)<br>每季 $1020 (電單車)<br>每季 $1890 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $23 (私家车)<br>23:00 - 07:00 每小时 $17 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家车)<br>星期日及公众假期 08:00 - 00:00 $120 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家车)<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每季 $12150 (私家车)<br>每季 $1020 (电单车)<br>每季 $1890 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp2.jpg
+tdcp3,Tsuen Wan Car Park,荃灣停車場,荃湾停车场,"174-208 Castle Peak Road, Tsuen Wan, New Territories",新界荃灣青山公路-荃灣段174-208號,新界荃湾青山公路-荃湾段174-208号,22.37284735,114.11860252,Tsuen Wan,荃灣區,荃湾区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $18 per hour (private car)<br>23:00 - 07:00 $14 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $100 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $100 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>Monday to Saturday from 19:00 - 07:00 $60 (private car)<br>Sunday to Public holiday from 19:00 - 07:00 $60 (private car)<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $2100 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $18 (私家車)<br>23:00 - 07:00 每小時 $14 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $100 (私家車)<br>星期日及公眾假期 07:00 - 19:00 $100 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $60 (私家車)<br>星期日及公眾假期 19:00 - 07:00 $60 (私家車)<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $2100 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $18 (私家车)<br>23:00 - 07:00 每小时 $14 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $100 (私家车)<br>星期日及公众假期 07:00 - 19:00 $100 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $60 (私家车)<br>星期日及公众假期 19:00 - 07:00 $60 (私家车)<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $2100 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp3.jpg
+tdcp5,City Hall Car Park,大會堂停車場,大会堂停车场,"1 Edinburgh Place, Central, Hong Kong",香港中環愛丁堡廣場1號,香港中环爱丁堡广场1号,22.28191055,114.16213972,Central & Western,中西區,中西区,,OPEN,0.0,"Height Limit: 2.1
+Hourly<br>07:00 - 19:00 $23 per hour (private car)<br>19:00 - 07:00 $17 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $180 (private car)<br>Sunday to Public holiday from 08:00 - 00:00 $120 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>Monday to Saturday from 19:00 - 07:00 $65 (private car)<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $4400 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2.1
+時租<br>07:00 - 19:00 每小時 $23 (私家車)<br>19:00 - 07:00 每小時 $17 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家車)<br>星期日及公眾假期 08:00 - 00:00 $120 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家車)<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $4400 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2.1
+时租<br>07:00 - 19:00 每小时 $23 (私家车)<br>19:00 - 07:00 每小时 $17 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家车)<br>星期日及公众假期 08:00 - 00:00 $120 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家车)<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $4400 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp5.jpg
+tdcp6,Kwai Fong Car Park,葵芳停車場,葵芳停车场,"19 Kwai Yi Road, Kwai Chung, New Territories",新界葵涌葵義路19號,新界葵涌葵义路19号,22.35548531,114.1273145,Kwai Tsing,葵青區,葵青区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $15 per hour (private car)<br>23:00 - 07:00 $12 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $100 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $100 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>Monday to Saturday from 19:00 - 07:00 $55 (private car)<br>Sunday to Public holiday from 19:00 - 07:00 $55 (private car)<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $2100 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $15 (私家車)<br>23:00 - 07:00 每小時 $12 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $100 (私家車)<br>星期日及公眾假期 07:00 - 19:00 $100 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $55 (私家車)<br>星期日及公眾假期 19:00 - 07:00 $55 (私家車)<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $2100 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $15 (私家车)<br>23:00 - 07:00 每小时 $12 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $100 (私家车)<br>星期日及公众假期 07:00 - 19:00 $100 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $55 (私家车)<br>星期日及公众假期 19:00 - 07:00 $55 (私家车)<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $2100 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp6.jpg
+tdcp7,Kennedy Town Car Park,堅尼地城停車場,坚尼地城停车场,"12 Rock Hill Street, Kennedy Town, Hong Kong
+",香港堅尼地城石山街12號,香港坚尼地城石山街12号,22.28177031,114.12885637,Central & Western,中西區,中西区,,OPEN,0.0,"Height Limit: 2.4
+Hourly<br>07:00 - 23:00 $13 per hour (private car)<br>23:00 - 07:00 $13 per hour (private car)<br><br>Day Park<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Quarterly $6900 (private car)<br>Quarterly $1020 (motorcycles)<br>Quarterly $1890 (taxi)<br>","高度限制: 2.4
+時租<br>07:00 - 23:00 每小時 $13 (私家車)<br>23:00 - 07:00 每小時 $13 (私家車)<br><br>日泊<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每季 $6900 (私家車)<br>每季 $1020 (電單車)<br>每季 $1890 (的士)<br>","高度限制: 2.4
+时租<br>07:00 - 23:00 每小时 $13 (私家车)<br>23:00 - 07:00 每小时 $13 (私家车)<br><br>日泊<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每季 $6900 (私家车)<br>每季 $1020 (电单车)<br>每季 $1890 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp7.jpg
+tdcp8,Star Ferry Car Park,天星停車場,天星停车场,"9 Edinburgh Place, Central, Hong Kong",香港中環愛丁堡廣場9號,香港中环爱丁堡广场9号,22.28275461,114.16043975,Central & Western,中西區,中西区,,OPEN,0.0,"Height Limit: 2.1
+Hourly<br>07:00 - 19:00 $23 per hour (private car)<br>19:00 - 07:00 $17 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $180 (private car)<br>Sunday to Public holiday from 08:00 - 00:00 $120 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>Monday to Saturday from 19:00 - 07:00 $65 (private car)<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $4400(non-reserved)/5900 (reserved) (private car)<br>Monthly $340 (motorcycles)<br>","高度限制: 2.1
+時租<br>07:00 - 19:00 每小時 $23 (私家車)<br>19:00 - 07:00 每小時 $17 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家車)<br>星期日及公眾假期 08:00 - 00:00 $120 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家車)<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $4400(非固定泊位)/5900 (固定泊位) (私家車)<br>每月 $340 (電單車)<br>","高度限制: 2.1
+时租<br>07:00 - 19:00 每小时 $23 (私家车)<br>19:00 - 07:00 每小时 $17 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $180 (私家车)<br>星期日及公众假期 08:00 - 00:00 $120 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>星期一至六 19:00 - 07:00 $65 (私家车)<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $4400(非固定泊位)/5900 (固定泊位) (私家车)<br>每月 $340 (电单车)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp8.jpg
+tdcp9,Shau Kei Wan Car Park,筲箕灣停車場,筲箕湾停车场,"1 Po Man Street, Shau Kei Wan, Hong Kong",香港筲箕灣寶文街1號,香港筲箕湾宝文街1号,22.27879407,114.22927727,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $13 per hour (private car)<br>23:00 - 07:00 $11 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $80 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $80 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $2100 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $13 (私家車)<br>23:00 - 07:00 每小時 $11 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $80 (私家車)<br>星期日及公眾假期 07:00 - 19:00 $80 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $2100 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $13 (私家车)<br>23:00 - 07:00 每小时 $11 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $80 (私家车)<br>星期日及公众假期 07:00 - 19:00 $80 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $2100 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp9.jpg
+tdcp10,Aberdeen Car Park,香港仔停車場,香港仔停车场,"18 Aberdeen Reservoir Road, Aberdeen, Hong Kong",香港仔香港仔水塘道18號,香港仔香港仔水塘道18号,22.25027272,114.15661803,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $13 per hour (private car)<br>23:00 - 07:00 $11 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $80 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $80 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $2100 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $17 (私家車)<br>23:00 - 07:00 每小時 $15 (私家車)<br><br>日泊<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $1900 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $17 (私家车)<br>23:00 - 07:00 每小时 $15 (私家车)<br><br>日泊<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $1900 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp10.jpg
+tdcp11,Tin Hau Car Park,天后停車場,天后停车场,"1 King's Road, Causeway Bay, Hong Kong'",香港銅鑼灣英皇道1號,香港铜锣湾英皇道1号,22.28288221,114.19166511,Wan Chai,灣仔區,湾仔区,,OPEN,0.0,"Height Limit: 2.2
+Hourly<br>07:00 - 23:00 $21 per hour (private car)<br>23:00 - 07:00 $16 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $105 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $105 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Monthly $2900 (private car)<br>Monthly $340 (motorcycles)<br>Monthly $630 (taxi)<br>","高度限制: 2.2
+時租<br>07:00 - 23:00 每小時 $21 (私家車)<br>23:00 - 07:00 每小時 $16 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $105 (私家車)<br>星期日及公眾假期 07:00 - 19:00 $105 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每月 $2900 (私家車)<br>每月 $340 (電單車)<br>每月 $630 (的士)<br>","高度限制: 2.2
+时租<br>07:00 - 23:00 每小时 $21 (私家车)<br>23:00 - 07:00 每小时 $16 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $105 (私家车)<br>星期日及公众假期 07:00 - 19:00 $105 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每月 $2900 (私家车)<br>每月 $340 (电单车)<br>每月 $630 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp11.jpg
+tdcp12,Sheung Fung Street Car Park,雙鳳街停車場,双凤街停车场,"Sheung Fung Street, Wong Tai Sin, Kowloon
+",九龍黃大仙雙鳳街,九龙黄大仙双凤街,22.34395897,114.19705899,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 2
+Hourly<br>07:00 - 23:00 $13 per hour (private car)<br>23:00 - 07:00 $11 per hour (private car)<br><br>Day Park<br>Monday to Saturday from 07:00 - 19:00 $80 (private car)<br>Sunday to Public holiday from 07:00 - 19:00 $80 (private car)<br>08:00 - 23:00 $26 (motorcycles)<br><br>Night Park<br>23:00 - 08:00 $11 (motorcycles)<br><br>Monthly<br>Quarterly $6000 (private car)<br>Quarterly $1020 (motorcycles)<br>Quarterly $1890 (taxi)<br>","高度限制: 2
+時租<br>07:00 - 23:00 每小時 $13 (私家車)<br>23:00 - 07:00 每小時 $11 (私家車)<br><br>日泊<br>星期一至六 07:00 - 19:00 $80 (私家車)<br>星期日及公眾假期 07:00 - 19:00 $80 (私家車)<br>08:00 - 23:00 $26 (電單車)<br><br>夜泊<br>23:00 - 08:00 $11 (電單車)<br><br>月租<br>每季 $6000 (私家車)<br>每季 $1020 (電單車)<br>每季 $1890 (的士)<br>","高度限制: 2
+时租<br>07:00 - 23:00 每小时 $13 (私家车)<br>23:00 - 07:00 每小时 $11 (私家车)<br><br>日泊<br>星期一至六 07:00 - 19:00 $80 (私家车)<br>星期日及公众假期 07:00 - 19:00 $80 (私家车)<br>08:00 - 23:00 $26 (电单车)<br><br>夜泊<br>23:00 - 08:00 $11 (电单车)<br><br>月租<br>每季 $6000 (私家车)<br>每季 $1020 (电单车)<br>每季 $1890 (的士)<br>",http://resource.data.one.gov.hk/td/carpark/tdcp12.jpg
+tdc20p1,Hong Kong Wetland Park Car Park,香港濕地公園停車場,香港湿地公园停车场,"Wetland Park Road, Tin Shui Wai, NT",新界 天水圍 濕地公園路,新界 天水围 湿地公园路,22.4692249,114.0045853,Yuen Long,元朗區,元朗区,3152 2666,OPEN,0.0,"Height Limit: 
+9:00 am – 5:30 pm (Last entry of carpark  4:00pm)<br>
+Closed on Tuesdays (except Public Holidays)
+<br><br>
+The Parking fee is $8 per hour","高度限制: 
+開放時間: 9:00am - 5:30pm(最後入車時間 下午四時)<br>
+逢星期二關閉(除公衆假期外)
+<br><br>
+每小時收費港幣8元","高度限制: 
+开放时间: 9:00am - 5:30pm(最后入车时间 下午四时)<br>
+逢星期二关闭(除公衆假期外)
+<br><br>
+每小时收费港币8元",http://resource.data.one.gov.hk/td/carpark/tdc20p1.jpg
+tdc5p3,Wu Chung House,胡忠大廈,胡忠大厦,"213 Queen's Road East, Wan Chai District, Hong Kong",香港 灣仔區 皇后大道東213號,香港 湾仔区 皇后大道东213号,22.27437133,114.17247315,Wan Chai,灣仔區,湾仔区,2893 9369,OPEN,1.9,"Height Limit: 
+<u>Provision of Electric Charging Services (Total: 9)</u><br>
+Standard (13A) Charger : 1 no. (3/F)<br>
+Standard (13A) Charger : 8 nos. (5/F)
+","高度限制: 
+<u>設有電動車充電服務 (共9個）</u><br>
+一般(13A)充電器 : 1個 (3樓)<br>
+一般(13A)充電器 : 8個 (5樓)
+","高度限制: 
+<u>设有电动车充电服务 (共9个）</u><br>
+一般(13A)充电器 : 1个 (3楼)<br>
+一般(13A)充电器 : 8个 (5楼)
+",http://resource.data.one.gov.hk/td/carpark/tdc5p3.jpg
+tdc5p1,Hopewell Centre ,合和中心,合和中心,"183 QUEEN'S ROAD EAST, Wan Chai District, Hong Kong",香港 灣仔區 皇后大道東183號,香港 湾仔区 皇后大道东183号,22.2745918,114.17167341,Wan Chai,灣仔區,湾仔区,2527 7292,OPEN,2.0,"Height Limit: 
+<u>Provision of Electric Charging Services (Total: 12)</u><br>
+Super Charger for Tesla      : 6 nos. (11/F) ; 4 nos. (10/F)<br>
+Medium Charger for Tesla  : 2 nos. (12/F)","高度限制: 
+<u>設有電動車充電服務 (共12個）</u><br>
+Tesla專用快速充電器  : 6個 (11樓) ; 4個 (10樓)<br>
+Tesla專用中速充電器  : 2個 (12樓)","高度限制: 
+<u>设有电动车充电服务 (共12个）</u><br>
+Tesla专用快速充电器  : 6个 (11楼) ; 4个 (10楼)<br>
+Tesla专用中速充电器  : 2个 (12楼)",http://resource.data.one.gov.hk/td/carpark/tdc5p1.jpg
+tdc32p4,Pok Hong Estate,博康邨,博康邨,"Sha Kok Street, Shatin, New Territories",新界沙田沙角街,新界沙田沙角街,22.37539675,114.19316679,Sha Tin,沙田區,沙田区,2512 9611,OPEN,1.9,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc32p4.jpg
+tdc8p1,MTR Tsing Yi Station Car Park,港鐵青衣站停車場,港铁青衣站停车场," TSING TSUEN ROAD, Kwai Tsing District, New Territories",新界 葵青區 青荃路號,新界 葵青区 青荃路号,22.358415316,114.107331183,Kwai Tsing,葵青區,葵青区,28818888,OPEN,2.1,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p1.jpg
+tdc8p2,MTR Kowloon Station Car Park,港鐵九龍站停車場,港铁九龙站停车场," AUSTIN ROAD WEST, Yau Tsim Mong District, Kowloon",九龍 油尖旺區 柯士甸道西號,九龙 油尖旺区 柯士甸道西号,22.305013661,114.161918989,Yau Tsim Mong,油尖旺區,油尖旺区,28818888,OPEN,2.1,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p2.jpg
+tdc8p3,MTR Hong Kong Station Car Park,港鐵香港站停車場,港铁香港站停车场," FINANCE STREET, Central & Western District, Hong Kong",香港 中西區 金融街號,香港 中西区 金融街号,22.285922464,114.157505851,Central & Western,中西區,中西区,28818888,OPEN,2.1,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p3.jpg
+tdc8p7,MTR Maritime Square Car Park,港鐵青衣城停車場,港铁青衣城停车场,"33 TSING KING ROAD, Kwai Tsing District, New Territories",新界 葵青區 青敬路33號,新界 葵青区 青敬路33号,22.358198306,114.106690521,Kwai Tsing,葵青區,葵青区,21867284,OPEN,2.1,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p7.jpg
+tdc8p8,Popcorn I Carpark,Popcorn 一期停車場,Popcorn 一期停车场,"9 TONG YIN STREET, Sai Kung District, New Territories",新界 西貢區 唐賢街9號,新界 西贡区 唐贤街9号,22.308018675,114.259222808,Sai Kung,西貢區,西贡区,3543 1273,OPEN,2.2,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p8.jpg
+tdc8p9,Paradise Mall Carpark,杏花新城停車場,杏花新城停车场,"100 SHING TAI ROAD, Eastern District, Hong Kong",香港 東區 盛泰道100號,香港 东区 盛泰道100号,22.278000914,114.238896615,Eastern,東區,东区,2595 1978,OPEN,1.8,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p9.jpg
+tdc8p10,ELEMENTS Carpark,圓方停車場,圆方停车场,"1 AUSTIN ROAD WEST, Yau Tsim Mong District, Kowloon",九龍 油尖旺區 柯士甸道西1號,九龙 油尖旺区 柯士甸道西1号,22.304932353,114.161579325,Yau Tsim Mong,油尖旺區,油尖旺区,27355234,OPEN,2.2,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p10.jpg
+tdc8p11,MTR Ocean Park Station Car Park,港鐵海洋公園站停車場,港铁海洋公园站停车场," Wong Chuk Hang Road, Southern District, Hong Kong",香港 南區 黃竹坑道號,香港 南区 黄竹坑道号,22.248763404,114.174499261,Southern,南區,南区,28818888,OPEN,2.1,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p11.jpg
+tdc10p1,Sai Kung Government Offices Car Park,西貢政府合署停車場,西贡政府合署停车场,"34 Chan Man Street, Sai Kung, N.T.",新界 西貢區 親民街34號,新界 西贡区 亲民街34号,22.382026,114.272443,Sai Kung,西貢區,西贡区,5282 9983,OPEN,0.0,"Height Limit: 1.9
+69 car parking bays and 1 car parking bay for disabled persons","高度限制: 1.9
+69個私家車停車位及一個供殘疾人士使用的私家車停車位","高度限制: 1.9
+69个私家车停车位及一个供残疾人士使用的私家车停车位",http://resource.data.one.gov.hk/td/carpark/tdc10p1.jpg
+tdc1p4,Hysan Place Car Park,希慎廣場停車場,希慎广场停车场,"500 Hennessy Road, Wan Chai District, Hong Kong",香港 灣仔區 軒尼詩道500號,香港 湾仔区 轩尼诗道500号,22.279907691,114.183409552,Wan Chai,灣仔區,湾仔区,,OPEN,3.5,"Height Limit: 
+Electric Vehicle Charging Service is now available at B3/F of Lee Garden One Car Park (1 no.), B1/F of Lee Garden Two Car Park (1 no.) and 4/F of Leighton Car Park (1 no.). 
+<br><br>
+Tesla Superchargers are also in service on the B3/F of Lee Garden One Car Park (2 nos.).
+","高度限制: 
+3個電動車充電服務已分別於利園一期停車場B3樓(1個)、利園二期停車場B1樓(1個)及禮頓中心停車場4樓(1個)正式投入服務。
+<br><br>
+2個Tesla Supercharger現也於利園一期停車場B3樓正式投入服務。","高度限制: 
+3个电动车充电服务已分别于利园一期停车场B3楼(1个)、利园二期停车场B1楼(1个)及礼顿中心停车场4楼(1个)正式投入服务。
+<br><br>
+2个Tesla Supercharger现也于利园一期停车场B3楼正式投入服务。",http://resource.data.one.gov.hk/td/carpark/tdc1p4.jpg
+tdc14p3309,Tin Chak Car Park A ,天澤A停車場,天泽A停车场,"Tin Chak Shopping Centre, 
+71, 73, 75 & 77 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories","新界元朗天水圍天瑞路71, 73, 75及77號天澤商場","新界元朗天水围天瑞路71, 73, 75及77号天泽商场",22.46684,113.997449,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3309.jpg
+tdc14p3306,T Town North Car Park,T Town North  停車場,T Town North  停车场,"Tin Yuet Estate Car Park, 33 & 39 Tin Wah Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天華路33及39號天悅邨停車場,新界元朗天水围天华路33及39号天悦邨停车场,22.462466,113.998936,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3306.jpg
+tdc14p3307,Tin Yuet Car Park,天悅停車場,天悦停车场,"Tin Yuet Estate Car Park, 33 & 39 Tin Wah Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天華路33及39號天悅邨停車場,新界元朗天水围天华路33及39号天悦邨停车场,22.462589,114.000443,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3307.jpg
+tdc14p3303,Tin Wah Car Park ,天華停車場,天华停车场,"Tin Wah Estate Retail and Car Park, 21 Tin Tan Street, Tin Shui Wai, Yuen Long, New 
+Territories",新界元朗天水圍天壇街21號天華邨商舖及停車場,新界元朗天水围天坛街21号天华邨商舖及停车场,22.461156,113.996398,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3303.jpg
+tdc14p3304,T Town South Car Park,T Town South 停車場,T Town South 停车场,"T 
+Town, 30 & 33 Tin Wah Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天華路30及33號T Town,新界元朗天水围天华路30及33号T Town,22.461066,113.99724,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3304.jpg
+tdc14p3301,Tin Shui Car Park ,天瑞停車場,天瑞停车场,"Tin Shui Shopping Centre, 9 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天瑞路9號天瑞商場,新界元朗天水围天瑞路9号天瑞商场,22.456333,113.998435,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3301.jpg
+tdc14p3216,Mei Lam Car Park ,美林停車場,美林停车场,"Mei Lam Commercial Centre, 30 Mei Tin Road, Tai Wai, Sha Tin, New Territories",新界沙田大圍美田路30號美林商場,新界沙田大围美田路30号美林商场,22.37805,114.175472,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3216.jpg
+tdc14p3204,Lung Hang  A Car Park ,隆亨A停車場,隆亨A停车场,"Lung Hang Commercial Centre, 1 Tin Sam Street, Tai Wai, Sha Tin, New Territories",新界沙田大圍田心街1號隆亨商場,新界沙田大围田心街1号隆亨商场,22.368096,114.179012,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3204.jpg
+tdc14p3206,Sun Chui Car Park ,新翠停車場,新翠停车场,"Sun Chui Shopping Centre, 2 Chui Tin 
+Street, Tai Wai, Sha Tin, New Territories",新界沙田大圍翠田街2號新翠商場,新界沙田大围翠田街2号新翠商场,22.370813,114.182751,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3206.jpg
+tdc14p2119,Choi Yuen Car Park B,彩園B停車場,彩园B停车场,"Choi Yuen 
+Plaza, 8 Choi Yuen Road, Sheung Shui, New Territories",新界上水彩園路8號彩園廣場,新界上水彩园路8号彩园广场,22.500256,114.127127,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  2.2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2119.jpg
+tdc14p2120,Choi Yuen Car Park C,彩園C停車場,彩园C停车场,"Choi Yuen Plaza, 8 Choi Yuen Road, Sheung Shui, New Territories",新界上水彩園路8號彩園廣場,新界上水彩园路8号彩园广场,22.500147,114.126765,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  1.9M (Entrance); 1.8M (1/F); 1.7M (2/F)
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米(入口); 1.8米(一樓); 1.7米(二樓)
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米(入口); 1.8米(一楼); 1.7米(二楼)
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2120.jpg
+tdc14p2121,Choi Yuen D,彩園D場,彩园D场,"Choi Yuen Plaza, 8 Choi Yuen Road, Sheung Shui, New Territories",新界上水彩園路8號彩園廣場,新界上水彩园路8号彩园广场,22.500501,114.128343,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2121.jpg
+tdc14p3201,Hin Keng Car Park ,顯徑停車場,显径停车场,"Hin Keng Shopping Centre, 69 Che Kung Miu Road, Tai Wai, Sha Tin, New Territories",新界沙田大圍車公廟道69號顯徑商場,新界沙田大围车公庙道69号显径商场,22.364076,114.172507,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3201.jpg
+tdc14p2104,Heng On Car Park ,恆安停車場,恒安停车场,"Heng On Commercial Centre, 1 Hang Kam Street, Ma On Shan, Sha Tin, New Territories",新界沙田馬鞍山恆錦街1號恆安商場,新界沙田马鞍山恒锦街1号恒安商场,22.416621,114.228137,Sha Tin,沙田區,沙田区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2104.jpg
+tdc14p2106,Yiu On Car Park ,耀安停車場,耀安停车场,"Yiu On Shopping Centre, 2 Hang Hong 
+Street, Ma On Shan, Sha Tin, New Territories",新界沙田馬鞍山恆康街2號耀安商場,新界沙田马鞍山恒康街2号耀安商场,22.420482,114.230566,Sha Tin,沙田區,沙田区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2106.jpg
+tdc14p2116,Cheung Wah - Cheung Yu Hs.,祥華A場,祥华A场,"Cheung Wah Shopping Centre, 38 San Wan Road, Fanling, New Territories",新界粉嶺新運路38號祥華商場,新界粉岭新运路38号祥华商场,22.493288,114.142545,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2116.jpg
+tdc14p2117,Cheung Wah - Cheung Chung Hs. Car Park ,祥華B停車場,祥华B停车场,"Cheung Wah Shopping Centre, 38 San Wan Road, Fanling, New Territories",新界粉嶺新運路38號祥華商場,新界粉岭新运路38号祥华商场,22.492991,114.140185,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2117.jpg
+tdc14p2118,Choi Yuen Car Park A ,彩園A停車場,彩园A停车场,"Choi Yuen Plaza, 8 Choi Yuen Road, 
+Sheung Shui, New Territories",新界上水彩園路8號彩園廣場,新界上水彩园路8号彩园广场,22.500856,114.126642,North,北區,北区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2118.jpg
+tdc14p2101,Chung On Car Park A ,頌安A停車場,颂安A停车场,"Chung On Shopping Centre, 632 Sai Sha Road, Ma On Shan, Sha Tin, New Territories",新界沙田馬鞍山西沙路632號頌安商場,新界沙田马鞍山西沙路632号颂安商场,22.42166,114.226755,Sha Tin,沙田區,沙田区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p2101.jpg
+tdc14p1037,Yiu Tung Car Park 2 ,耀東2停車場,耀东2停车场,"Yiu Tung Shopping Centre, 12 Yiu Hing Road, Shau Kei Wan, Hong Kong",香港筲箕灣耀興道12號耀東商場,香港筲箕湾耀兴道12号耀东商场,22.277303,114.225057,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1037.jpg
+tdc14p1034,Hing Wah Car Park B ,興華B停車場,兴华B停车场,"Hing Wah 
+Plaza, 11 Wan Tsui Road, Chai Wan, Hong Kong",香港柴灣環翠道11號興華廣場,香港柴湾环翠道11号兴华广场,22.26303,114.2351,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1034.jpg
+tdc14p1030,Siu Sai Wan Phase 3 Car Park ,小西灣三期停車場,小西湾三期停车场,"Siu Sai Wan Plaza, 10 Siu Sai Wan Road, Siu Sai Wan, Hong Kong",香港小西灣小西灣道10號小西灣廣場,香港小西湾小西湾道10号小西湾广场,22.261,114.251273,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1030.jpg
+tdc14p1031,Siu Sai Wan Phase 1 Car Park ,小西灣一期停車場,小西湾一期停车场,"Siu Sai Wan Plaza, 10 Siu Sai Wan Road, Siu Sai Wan, Hong Kong",香港小西灣小西灣道10號小西灣廣場,香港小西湾小西湾道10号小西湾广场,22.262853,114.248621,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1031.jpg
+tdc14p1032,Tsui Wan Car Park ,翠灣停車場,翠湾停车场,"Tsui Wan Estate Retail and Car Park, 3 Tsui Wan Street, Chai Wan, Hong Kong",香港柴灣翠灣街3號翠灣邨商舖及停車場,香港柴湾翠湾街3号翠湾邨商舖及停车场,22.26733,114.24,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1032.jpg
+tdc14p1033,Wan Tsui Car Park ,環翠停車場,环翠停车场,"Wan Tsui Commercial Complex, 2 Wah 
+Ha Street, Chai Wan, Hong Kong",香港柴灣華廈街2號環翠商場,香港柴湾华厦街2号环翠商场,22.261888,114.236826,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1033.jpg
+tdc14p1015,Oi Tung Car Park ,愛東停車場,爱东停车场,"Oi Tung Shopping Centre, 18 Oi Yin Street, Shau Kei Wan, Hong Kong",香港筲箕灣愛賢街18號愛東商場,香港筲箕湾爱贤街18号爱东商场,22.280511,114.22719,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.4M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.4米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.4米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1015.jpg
+tdc14p1016,Yiu Tung Car Park 1 ,耀東1停車場,耀东1停车场,"Yiu Tung Shopping Centre, 12 Yiu Hing Road, Shau Kei Wan, Hong Kong",香港筲箕灣耀興道12號耀東商場,香港筲箕湾耀兴道12号耀东商场,22.2785116,114.2227053,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1016.jpg
+tdc14p1017,Hing Tung  Car Park ,興東停車場,兴东停车场,"Hing Tung Shopping Centre, 55 Yiu Hing Road, Shau Kei Wan, Hong Kong",香港筲箕灣耀興道55號興東商場,香港筲箕湾耀兴道55号兴东商场,22.2804899,114.2200719,Eastern,東區,东区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1017.jpg
+tdc14p1007,Tong Ming Car Park ,唐明停車場,唐明停车场,"Tong Ming Court Retail and Car Park, 15 Tong Ming Street, Tseung Kwan O, New Territories",新界將軍澳唐明街15號唐明苑商舖及停車場,新界将军澳唐明街15号唐明苑商舖及停车场,22.30821,114.2561,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1007.jpg
+tdc6p6,Po Heung Estate Car Park,寶鄉邨停車場,宝乡邨停车场,"No.1 Po Heung Street, Tai Po, N.T",新界大埔寶鄉街1號,新界大埔宝乡街1号,22.446862864,114.165271187,Tai Po,大埔區,大埔区,,OPEN,0.0,"Height Limit: Podium Level 1 : Loading & Unloading
+Ground Floor  : 3.7 (Applicable to Container Vehicles)
+Basement Carpark :  2.4 (Applicable to Private Cars/Vans)
+","高度限制: 第一層平台﹕ 上落貨區
+地下﹕3.7 (此高度限制適用於貨櫃車)
+地庫 ﹕2.4 (此高度限制適用於私家車/客貨車)
+","高度限制: 第一层平台﹕ 上落货区
+地下﹕3.7 (此高度限制适用于货柜车)
+地库 ﹕2.4 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p6.jpg
+tdc14p1004,Choi Ming Car Park  1 ,彩明1號停車場,彩明1号停车场,"Choi Ming Shopping Centre, 1 Choi Ming Street, Tiu Keng Leng, Tseung Kwan O, New 
+Territories",新界將軍澳調景嶺彩明街1號彩明商場,新界将军澳调景岭彩明街1号彩明商场,22.30666,114.252446,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1004.jpg
+tdc14p1005,Choi Ming Car Park  2 ,彩明2號停車場,彩明2号停车场,"Choi Ming 
+Shopping Centre, 1 Choi Ming Street, Tiu Keng Leng, Tseung Kwan O, New Territories",新界將軍澳調景嶺彩明街1號彩明商場,新界将军澳调景岭彩明街1号彩明商场,22.308972,114.255308,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1005.jpg
+tdc14p1006,Kin Ming Car Park A ,健明A停車場,健明A停车场,"Kin Ming Estate Car Park, 1 Choi Ming Street, Tiu Keng Leng, Tseung Kwan O, New Territories",新界將軍澳調景嶺彩明街1號健明邨停車場,新界将军澳调景岭彩明街1号健明邨停车场,22.306028,114.251108,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1006.jpg
+tdc8p12,MTR Maritime Square 2 Car Park,港鐵青衣城二期停車場,港铁青衣城二期停车场,Tsing King Road,青敬路,青敬路,22.360040639,114.106922607,Kwai Tsing,葵青區,葵青区,21867284,OPEN,2.4,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p12.jpg
+tdc14p1012,Sheung Tak Car Park B ,尚德B停車場,尚德B停车场,"Sheung Tak Plaza, 2 Tong Ming Street, Tseung Kwan O, New Territories",新界將軍澳唐明街2號尚德廣場,新界将军澳唐明街2号尚德广场,22.31074,114.2579,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.3M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.3米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.3米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1012.jpg
+tdc14p1008,Sheung Tak Car Park A ,尚德A停車場,尚德A停车场,"Sheung Tak Plaza, 2 Tong Ming 
+Street, Tseung Kwan O, New Territories",新界將軍澳唐明街2號尚德廣場,新界将军澳唐明街2号尚德广场,22.31174,114.26,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.1M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p1008.jpg
+tdc14p3311,Tin Yat Car Park ,天逸停車場,天逸停车场,"Tin Yat Estate Retail and Car Park, 76 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天瑞路76號天逸邨商舖及停車場,新界元朗天水围天瑞路76号天逸邨商舖及停车场,22.467847,113.999802,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3311.jpg
+tdc14p3431,Hong Pak Car Park ,康柏停車場,康柏停车场,"Hong Pak Court Retail and Car Park, 139 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田碧雲道139號康栢苑商舖及停車場,九龙观塘蓝田碧云道139号康栢苑商舖及停车场,22.302487,114.239156,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3431.jpg
+tdc14p3432,Hong Shui Car Park ,康瑞停車場,康瑞停车场,"Hong Shui Court Retail and 
+Car Park, 133 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田碧雲道133號康瑞苑商舖及停車場,九龙观塘蓝田碧云道133号康瑞苑商舖及停车场,22.301579,114.24035,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3432.jpg
+tdc14p3433,Ko Chun Car Park ,高俊停車場,高俊停车场,"Ko Chun Court Retail and Car Park, 23 Ko Chiu Road, Yau Tong, Kwun Tong, Kowloon",九龍觀塘油塘高超道23號高俊苑商舖及停車場,九龙观塘油塘高超道23号高俊苑商舖及停车场,22.29806,114.2419,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3433.jpg
+tdc14p3434,Ko Yee Car Park ,高怡停車場,高怡停车场,"Ko Yee Estate Retail and Car Park, 28 Ko Chiu Road, Yau Tong, Kwun Tong, Kowloon",九龍觀塘油塘高超道28號高怡邨商舖及停車場,九龙观塘油塘高超道28号高怡邨商舖及停车场,22.2964,114.2416,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3434.jpg
+tdc14p3435,Tak Tin Car Park  A ,德田A停車場,德田A停车场,"Tak Tin Plaza, 223 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田碧雲道223號德田廣場,九龙观塘蓝田碧云道223号德田广场,22.30923,114.2389,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3435.jpg
+tdc14p3436,Tak Tin  Car Park B,德田B停車場,德田B停车场,"Tak Tin Plaza, 223 Pik Wan Road, Lam Tin, 
+Kwun Tong, Kowloon",九龍觀塘藍田碧雲道223號德田廣場,九龙观塘蓝田碧云道223号德田广场,22.30619,114.2389,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3436.jpg
+tdc14p3441,Kai Tin (New Wing) Car Park ,啟田新翼停車場,启田新翼停车场,"Kai Tin 
+Shopping Centre, 50 Kai Tin Road, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田啟田道50號啟田商場,九龙观塘蓝田启田道50号启田商场,22.30826,114.2357,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.4M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.4米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.4米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3441.jpg
+tdc14p3443,Ping Tin Phase 2 Car Park ,平田2期停車場,平田2期停车场,"Ping Tin Shopping Centre, 23 On Tin Street, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田安田街23號平田商場,九龙观塘蓝田安田街23号平田商场,22.30586,114.2377,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3443.jpg
+tdc14p3444,Ping Tin Phase 4 Car Park ,平田4期停車場,平田4期停车场,"Ping Tin Shopping Centre, 23 On Tin Street, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田安田街23號平田商場,九龙观塘蓝田安田街23号平田商场,22.30853,114.2364,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3444.jpg
+tdc14p3445,Hong Yat Car Park ,康逸停車場,康逸停车场,"Hong Yat Court Retail and Car Park, 1 Tak Tin Street, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田德田街1號康逸苑商舖及停車場,九龙观塘蓝田德田街1号康逸苑商舖及停车场,22.310441,114.23449,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3445.jpg
+tdc14p3512,Leung King Car Park ,良景停車場,良景停车场,"Leung King Plaza, 31 Tin King Road, Tuen Mun, New Territories",新界屯門田景路31號良景廣場,新界屯门田景路31号良景广场,22.406017,113.962654,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3512.jpg
+tdc14p3519,Kin Sang  Car Park ,建生停車場,建生停车场,"Kin Sang Shopping Centre, 3 Leung Wan Street, Tuen Mun, New Territories",新界屯門良運街3號建生商場,新界屯门良运街3号建生商场,22.407139,113.969919,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3519.jpg
+tdc14p3520,Tai Hing - Car Park H,大興H停車場,大兴H停车场,"Tai Hing Commercial Centre, 1 Tai Hing Street, Tuen Mun, New Territories",新界屯門大興街1號大興商場,新界屯门大兴街1号大兴商场,22.402652,113.971106,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3520.jpg
+tdc14p3521,Tai Hing - Car Park D ,大興D停車場,大兴D停车场,"Tai Hing Commercial Centre, 1 Tai Hing Street, Tuen Mun, New Territories",新界屯門大興街1號大興商場,新界屯门大兴街1号大兴商场,22.403861,113.970647,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3521.jpg
+tdc14p3522,Tai Hing - Car Park  C ,大興C停車場,大兴C停车场,"Tai Hing Commercial Centre, 1 Tai Hing Street, Tuen Mun, New 
+Territories",新界屯門大興街1號大興商場,新界屯门大兴街1号大兴商场,22.401487,113.969813,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3522.jpg
+tdc14p3527,Fu Tai Car Park ,富泰停車場,富泰停车场,"Fu Tai Shopping Centre, 9 Tuen Kwai Road, Tuen Mun, New Territories",新界屯門屯貴路9號富泰商場,新界屯门屯贵路9号富泰商场,22.414191,113.983815,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3527.jpg
+tdc14p3554,Kai Tin (Old Wing) Car Park ,啟田舊翼停車場,启田旧翼停车场,"Kai Tin Shopping Centre, 50 Kai Tin Road, Lam Tin, Kwun Tong, Kowloon",九龍觀塘藍田啟田道50號啟田商場,九龙观塘蓝田启田道50号启田商场,22.30892,114.2344,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.1M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p3554.jpg
+tdc14p4219,Yu Chui Car Park A,愉翠A停車場,愉翠A停车场,"Yu Chui Shopping Centre, 2 Ngau Pei Sha Street, Siu Lek Yuen, Sha Tin, New Territories",新界沙田小瀝源牛皮沙街2號愉翠商場,新界沙田小沥源牛皮沙街2号愉翠商场,22.381515,114.205714,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: Height Limit: 2.2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4219.jpg
+tdc14p4220,Yu Chui Car Park B,愉翠B停車場,愉翠B停车场,"Yu Chui Shopping Centre, 2 Ngau Pei 
+Sha Street, Siu Lek Yuen, Sha Tin, New Territories",新界沙田小瀝源牛皮沙街2號愉翠商場,新界沙田小沥源牛皮沙街2号愉翠商场,22.379938,114.205293,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: Height Limit: 2.2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4220.jpg
+tdc14p4222,Kwong Yuen Car Park A ,廣源A停車場,广源A停车场,"Kwong Yuen Shopping Centre, 68 Siu Lek Yuen Road, Sha Tin, New Territories",新界沙田小瀝源路68號廣源商場,新界沙田小沥源路68号广源商场,22.381504,114.215424,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4222.jpg
+tdc14p4223,Lek Yuen Car Park ,瀝源停車場,沥源停车场,"Lek Yuen Plaza, 6 Lek Yuen Street, Sha Tin, New Territories",新界沙田瀝源街6號瀝源廣場,新界沙田沥源街6号沥源广场,22.385562,114.191191,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4223.jpg
+tdc14p4225,Wo Che Car Park S ,禾輋S場停車場,禾輋S场停车场,"Wo Che Plaza, 3 Tak Hau Street, Sha Tin, New Territories",新界沙田德厚街3號禾輋廣場,新界沙田德厚街3号禾輋广场,22.387545,114.195409,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4225.jpg
+tdc14p4227,Wo Che Car Park F ,禾輋F場停車場,禾輋F场停车场,"Wo Che Plaza, 3 Tak Hau Street, Sha Tin, New Territories",新界沙田德厚街3號禾輋廣場,新界沙田德厚街3号禾輋广场,22.385801,114.193494,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4227.jpg
+tdc14p4235,Long Ping Car Park B ,朗屏B停車場,朗屏B停车场,"Long Ping Commercial Centre, 1 Long Ping Road, Yuen Long, New Territories",新界元朗朗屏路1號朗屏商場,新界元朗朗屏路1号朗屏商场,22.450374,114.023061,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  1.85M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.85米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.85米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4235.jpg
+tdc14p4237,Long Ping Car Park D,朗屏D停車場,朗屏D停车场,"Long Ping Commercial Centre, 1 Long Ping 
+Road, Yuen Long, New Territories",新界元朗朗屏路1號朗屏商場,新界元朗朗屏路1号朗屏商场,22.448067,114.023123,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  1.8M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4237.jpg
+tdc14p4239,Tin Shing  Car Park A,天盛A停車場,天盛A停车场,"Tin 
+Shing Shopping Centre, 3 Tin Ching Street, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天靖街3號天盛商場,新界元朗天水围天靖街3号天盛商场,22.448224,114.003136,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  2.4M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.4米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.4米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4239.jpg
+tdc14p4243,Tin Yiu Car Park  A ,天耀A停車場,天耀A停车场,"Tin Yiu Plaza, 2 Tin Wu Road, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天湖路2號天耀廣場,新界元朗天水围天湖路2号天耀广场,22.451433,114.002891,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4243.jpg
+tdc14p4246,Tin Tsz Car Park ,天慈停車場,天慈停车场,"Tin Tsz Shopping Centre, 9 Tin Hei Street, Tin Shui Wai, Yuen Long, New Territories",新界元朗天水圍天喜街9號天慈商場,新界元朗天水围天喜街9号天慈商场,22.453857,114.008088,Yuen Long,元朗區,元朗区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4246.jpg
+tdc14p4312,Kwong Fuk  Car Park ,廣褔停車場,广褔停车场,"Kwong Fuk Commercial Centre, 28 Plover Cove Road, Tai Po, New Territories",新界大埔寶湖道28號廣福商場,新界大埔宝湖道28号广福商场,22.448533,114.173875,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4312.jpg
+tdc14p4320,Tai Wo Car Park A ,太和A停車場,太和A停车场,"Tai Wo Plaza, 12 Tai Wo Road, Tai Po, New 
+Territories",新界大埔太和路12號太和廣場,新界大埔太和路12号太和广场,22.451409,114.162171,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  1.8M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4320.jpg
+tdc14p4321,Tai Wo Car Park B ,太和B停車場,太和B停车场,"Tai Wo Plaza, 12 Tai Wo Road, 
+Tai Po, New Territories",新界大埔太和路12號太和廣場,新界大埔太和路12号太和广场,22.450499,114.16076,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: Height Limit:  1.9M (B/F); 2M (G/F)
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米(地庫); 2米(地下)
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米(地库); 2米(地下)
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4321.jpg
+tdc14p4322,Fu Shin Car Park ,富善停車場,富善停车场,"Fu Shin Shopping 
+Centre, 12 On Po Road, Tai Po, New Territories",新界大埔安埔路12號富善商場,新界大埔安埔路12号富善商场,22.453548,114.174143,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4322.jpg
+tdc14p4327,Tai Yuen Car Park A ,大元A停車場,大元A停车场,"Tai Yuen Commercial Centre, 10 Ting Kok Road, Tai Po, New Territories",新界大埔汀角路10號大元商場,新界大埔汀角路10号大元商场,22.455049,114.169807,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4327.jpg
+tdc14p4328,Tai Yuen Car Park B,大元B停車場,大元B停车场,"Tai Yuen Commercial Centre, 10 Ting Kok Road, Tai Po, New Territories",新界大埔汀角路10號大元商場,新界大埔汀角路10号大元商场,22.454338,114.16771,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4328.jpg
+tdc14p4330,Fu Heng Car Park A,富亨停車場A,富亨停车场A,"Fu Heng Shopping Centre, 6 Chung Nga Road, Tai Po, New Territories",新界大埔頌雅路6號富亨商場,新界大埔颂雅路6号富亨商场,22.457943,114.170917,Tai Po,大埔區,大埔区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4330.jpg
+tdc14p4332,Lok Fu UNY Car Park ,樂富生活創庫停車場,乐富生活创库停车场,"Lok Fu Place, 198 Junction Road, Wang Tau Hom, Kowloon",九龍橫頭磡聯合道198號樂富廣場,九龙横头磡联合道198号乐富广场,22.338639,114.185866,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  1.9M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4332.jpg
+tdc14p4334,Lok Fu Market Car Park ,樂富街市停車場,乐富街市停车场,"Lok Fu Place, 198 Junction Road, Wang Tau Hom, Kowloon",九龍橫頭磡聯合道198號樂富廣場,九龙横头磡联合道198号乐富广场,22.339622,114.187127,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  1.9M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4334.jpg
+tdc14p4335,Lok Fu Zone B Car Park ,樂富B區停車場,乐富B区停车场,"Lok Fu Place, 198 Junction Road, 
+Wang Tau Hom, Kowloon",九龍橫頭磡聯合道198號樂富廣場,九龙横头磡联合道198号乐富广场,22.337352,114.187922,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  1.9M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.9米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4335.jpg
+tdc14p4337,Tung Tau II  Car Park A,東頭二(A)停車場,东头二(A)停车场,"Tung Tau 
+Estate Retail and Car Park, 183 Tung Tau Tsuen Road, Wong Tai Sin, Kowloon",九龍黃大仙東頭村道183號東頭邨商舖及停車場,九龙黄大仙东头村道183号东头邨商舖及停车场,22.335231,114.192711,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4337.jpg
+tdc14p4352,Lok Fu Estate Car Park ,樂富邨停車場,乐富邨停车场,"Lok Fu Place, 198 Junction Road, Wang Tau Hom, Kowloon",九龍橫頭磡聯合道198號樂富廣場,九龙横头磡联合道198号乐富广场,22.335421,114.18698,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p4352.jpg
+tdc14p5128,TKO Gateway Car Park West,TKO Gateway 西翼停車場,TKO Gateway 西翼停车场,"TKO Gateway, 2 Sheung Ning Street, Tseung Kwan O, New Territories",新界將軍澳常寧路2號TKO Gateway,新界将军澳常宁路2号TKO Gateway,22.317634,114.264292,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.1M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5128.jpg
+tdc14p5129,TKO Gateway Car Park East,TKO Gateway 東翼停車場,TKO Gateway 东翼停车场,"TKO Gateway, 2 Sheung 
+Ning Street, Tseung Kwan O, New Territories",新界將軍澳常寧路2號TKO Gateway,新界将军澳常宁路2号TKO Gateway,22.317361,114.266936,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.1M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.1米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5129.jpg
+tdc74p1,Tseung Kwan O Swimming Pool,將運澳游泳池,将运澳游泳池,"9 Wan Lung Road, Tseung Kwan O",將軍澳運隆路9號,将军澳运隆路9号,22.31791306,114.26012421,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc74p1.jpg
+tdc14p5132,Wo Ming Car Park ,和明停車場,和明停车场,"Wo Ming Court Retail and Car Park, 8 Ngan O Road, Tseung Kwan O, New Territories",新界將軍澳銀澳路8號和明苑商舖及停車場,新界将军澳银澳路8号和明苑商舖及停车场,22.315847,114.266501,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5132.jpg
+tdc14p5135,Yan Ming Court Car Park ,欣明停車場,欣明停车场,"Yan Ming Court Retail and Car 
+Park, 100 Po Lam Road North, Tseung Kwan O, New Territories",新界將軍澳寶琳北路100號欣明苑商舖及停車場,新界将军澳宝琳北路100号欣明苑商舖及停车场,22.324448,114.259057,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5135.jpg
+tdc14p5136,Ying Ming Court Car Park ,英明停車場,英明停车场,"Ying Ming Court Car Park, 20 Po Lam Road North, Tseung Kwan O, New Territories",新界將軍澳寶琳北路20號英明苑停車場,新界将军澳宝琳北路20号英明苑停车场,22.325824,114.25679,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5136.jpg
+tdc14p5137,Po Lam Car Park ,寶林停車場,宝林停车场,"Po Lam Shopping Centre, 18 Po Lam Road North, Tseung Kwan O, New Territories",新界將軍澳寶琳北路18號寶林商場,新界将军澳宝琳北路18号宝林商场,22.326221,114.25467,Sai Kung,西貢區,西贡区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5137.jpg
+tdc14p5419,Fu Cheong Car Park A ,富昌A停車場,富昌A停车场,"Fu Cheong Shopping Centre, 19 Sai Chuen Road, Sham Shui Po, Kowloon",九龍深水埗西邨路19號富昌商場,九龙深水埗西邨路19号富昌商场,22.329791,114.1541881,Sham Shui Po,深水埗區,深水埗区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5419.jpg
+tdc14p5421,Nam Cheong Car Park ,南昌停車場,南昌停车场,"Nam Cheong Estate Retail and Car Park, 3 
+Cheong San Lane, Sham Shui Po, Kowloon",九龍深水埗昌新里3號南昌邨商舖及停車場,九龙深水埗昌新里3号南昌邨商舖及停车场,22.326358,114.157698,Sham Shui Po,深水埗區,深水埗区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5421.jpg
+tdc14p5528,Chuk Yuen (S) Car Park,竹園南停車場(多層),竹园南停车场(多层),"Chuk Yuen Plaza, 15 Chuk Yuen Road, Wong Tai Sin, Kowloon",九龍黃大仙竹園道15號竹園廣場,九龙黄大仙竹园道15号竹园广场,22.3436818,114.1938529,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5528.jpg
+tdc14p5532,Temple Mall North Car Park,黃大仙中心 北館 停車場,黄大仙中心 北馆 停车场,"Temple Mall North, 136 Lung Cheung Road, Wong Tai Sin, Kowloon",九龍黃大仙龍翔道136號黃大仙中心 北館,九龙黄大仙龙翔道136号黄大仙中心 北馆,22.342478,114.190706,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  2.4M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.4米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2.4米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5532.jpg
+tdc14p5534,Temple Mall South Car Park A,黃大仙中心 南館 A停車場,黄大仙中心 南馆 A停车场,"Temple Mall South, 103 Ching Tak Street, Wong Tai Sin, Kowloon","九龍黃大仙正德街103號黃大仙中心 
+南館","九龙黄大仙正德街103号黄大仙中心 
+南馆",22.341184,114.195234,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5534.jpg
+tdc14p5535,Temple Mall South Car Park B,黃大仙中心 南館 B停車場,黄大仙中心 南馆 B停车场,"Temple Mall South, 103 Ching Tak Street, Wong 
+Tai Sin, Kowloon",九龍黃大仙正德街103號黃大仙中心 南館,九龙黄大仙正德街103号黄大仙中心 南馆,22.341282,114.19403,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: Height Limit:  1.8M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制:  1.8米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5535.jpg
+tdc14p5727,Yin Lai Car Park ,賢麗停車場,贤丽停车场,"Yin Lai Court 
+Shopping Centre, 180 Lai King Hill Road, Kwai Chung, New Territories",新界葵涌荔景山路180號賢麗苑購物中心,新界葵涌荔景山路180号贤丽苑购物中心,22.348928,114.126325,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5727.jpg
+tdc14p5904,Ying Fuk Car Park,盈福停車場,盈福停车场,"Ying Fuk Court Retail and Car Park, 17 Wing Chuk Street, Wong Tai Sin, Kowloon",九龍黃大仙穎竹街17號盈福苑商舖及停車場,九龙黄大仙颖竹街17号盈福苑商舖及停车场,22.346239,114.195434,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p5904.jpg
+tdc14p6401,Stanley Plaza Car Park ,赤柱廣場停車場,赤柱广场停车场,"Stanley Plaza, 23 Carmel Road, Stanley, Hong Kong",香港赤柱佳美道23號赤柱廣場,香港赤柱佳美道23号赤柱广场,22.22033,114.2089,Southern,南區,南区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.2M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.2米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6401.jpg
+tdc14p6601,Sau Mau Ping SC Car Park ,秀茂坪商場停車場,秀茂坪商场停车场,"Sau Mau Ping Shopping Centre, 101 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",九龍觀塘秀茂坪秀明道101號秀茂坪商場,九龙观塘秀茂坪秀明道101号秀茂坪商场,22.320031,114.232278,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6601.jpg
+tdc14p6602,Sau Mau Ping Phase 15 Car Park ,秀茂坪15期停車場,秀茂坪15期停车场,"Sau Mau Ping 
+Shopping Centre, 101 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",九龍觀塘秀茂坪秀明道101號秀茂坪商場,九龙观塘秀茂坪秀明道101号秀茂坪商场,22.317339,114.234743,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6602.jpg
+tdc14p6604,Sau Mau Ping Phase 3 Car Park ,秀茂坪3期停車場,秀茂坪3期停车场,"Sau Mau Ping (III) Estate Retail and Car Park, Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",九龍觀塘秀茂坪秀明道秀茂坪邨第三期商舖及停車場,九龙观塘秀茂坪秀明道秀茂坪邨第三期商舖及停车场,22.321743,114.230534,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6604.jpg
+tdc14p6605,Po Tat Car Park  A ,寶達 A停車場,宝达 A停车场,"Po Tat Shopping Centre, 2 Po Lam Road, Sau Mau Ping, Kwun Tong, Kowloon",九龍觀塘秀茂坪寶琳路2號寶達商場,九龙观塘秀茂坪宝琳路2号宝达商场,22.317872,114.236143,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6605.jpg
+tdc14p6606,Po Tat Car Park B and C ,寶達 B & C停車場,宝达 B & C停车场,"Po Tat Shopping Centre, 2 
+Po Lam Road, Sau Mau Ping, Kwun Tong, Kowloon",九龍觀塘秀茂坪寶琳路2號寶達商場,九龙观塘秀茂坪宝琳路2号宝达商场,22.316985,114.238072,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6606.jpg
+tdc14p6607,Hiu Lai Car Park ,曉麗停車場,晓丽停车场,"Hiu Lai Shopping Centre, 21 Hiu Kwong Street, Kwun Tong, Kowloon",九龍觀塘曉光街21號曉麗商場,九龙观塘晓光街21号晓丽商场,22.320862,114.229666,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6607.jpg
+tdc14p6608,Cheung Fat  Car Park ,長發停車場,长发停车场,"Cheung Fat Plaza, 6 Tam Kon Shan Road, Tsing Yi, New Territories",新界青衣擔桿山路6號長發廣場,新界青衣担杆山路6号长发广场,22.362637,114.102933,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 1.9M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 1.9米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 1.9米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6608.jpg
+tdc14p6610,Cheung On Phase 1 Car Park ,長安1期停車場,长安1期停车场,"Cheung On Estate Retail and Car Park, 1 Tam Kon Shan Road, Tsing Yi, New Territories",新界青衣擔桿山路1號長安邨商舖及停車場,新界青衣担杆山路1号长安邨商舖及停车场,22.361,114.101831,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6610.jpg
+tdc14p6611,Cheung On Phase 2 Car Park ,長安2期停車場,长安2期停车场,"Cheung On Estate Retail and Car Park, 1 Tam Kon Shan Road, Tsing Yi, New 
+Territories",新界青衣擔桿山路1號長安邨商舖及停車場,新界青衣担杆山路1号长安邨商舖及停车场,22.360484,114.104416,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6611.jpg
+tdc14p6620,Ching Wah Court Car Park ,青華停車場,青华停车场,"Ching Wah 
+Court Retail and Car Park, 22 Tsing Chin Street, Tsing Yi, New Territories",新界青衣青芊街22號青華苑商舖及停車場,新界青衣青芊街22号青华苑商舖及停车场,22.349081,114.099421,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6620.jpg
+tdc14p6639,Lok Wah (S) MS Car Park,樂華南-多層停車場,乐华南-多层停车场,"Lok Wah (South) Estate Retail and Car Park, 70 Chun Wah Road, Ngau Tau Kwok, Kwun Tong, Kowloon",九龍觀塘牛頭角振華道70號樂華南邨商舖及停車場,九龙观塘牛头角振华道70号乐华南邨商舖及停车场,22.320623,114.220764,Kwun Tong,觀塘區,观塘区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6639.jpg
+tdc14p6640,Lok Wah (N) CPA,樂華北A,乐华北A,"Lok Wah Commercial Centre, 70 Chun Wah Road, Ngau Tau Kwok, Kwun Tong, Kowloon",九龍觀塘牛頭角振華道70號樂華商場,九龙观塘牛头角振华道70号乐华商场,22.321522,114.220794,Kwun Tong,觀塘區,观塘区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6640.jpg
+tdc14p6641,Lok Wah (N) B Car Park ,樂華北B停車場,乐华北B停车场,"Lok Wah Commercial Centre, 70 
+Chun Wah Road, Ngau Tau Kwok, Kwun Tong, Kowloon",九龍觀塘牛頭角振華道70號樂華商場,九龙观塘牛头角振华道70号乐华商场,22.32233,114.220275,Kwun Tong,觀塘區,观塘区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6641.jpg
+tdc14p6645,Cheung Wang Car Park ,長宏停車場,长宏停车场,"Cheung Wang Estate Retail and Car Park, 9 Liu To Road, Tsing Yi, New Territories",新界青衣寮肚路9號長宏邨商舖及停車場,新界青衣寮肚路9号长宏邨商舖及停车场,22.356988,114.095805,Kwai Tsing,葵青區,葵青区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6645.jpg
+tdc14p6728,Yat Tung Car Park 2 & 3 (Sin Yat)  ,逸東2號及3號(善逸)停車場,逸东2号及3号(善逸)停车场,"Yat Tung Shopping Centre, 8 Yat Tung Street, Tung Chung, New Territories",新界東涌逸東街8號逸東商場,新界东涌逸东街8号逸东商场,22.28116,113.935776,Islands,離島區,离岛区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6728.jpg
+tdc14p6729,Yat Tung Car Park 1 (Mei Yat)  ,逸東1號(美逸)停車場,逸东1号(美逸)停车场,"Yat Tung Shopping Centre, 8 Yat Tung Street, Tung Chung, New Territories",新界東涌逸東街8號逸東商場,新界东涌逸东街8号逸东商场,22.281096,113.938628,Islands,離島區,离岛区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6729.jpg
+tdc14p6730,Fu Tung Car Park A ,富東A停車場,富东A停车场,"Fu Tung Plaza, 6 Fu Tung Street, Tung 
+Chung, New Territories",新界東涌富東街6號富東廣場,新界东涌富东街6号富东广场,22.286571,113.942254,Islands,離島區,离岛区,2830 3845,OPEN,0.0,"Height Limit: Height Limit: 2.0M
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.0米
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 高度限制: 2.0米
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p6730.jpg
+tdc14p7542,Tsui Ping North Phase 1 Car Park ,翠屏北 1 號停車場,翠屏北 1 号停车场,"Tsui Ping North Shopping Circuit, 18 Tsui Ping Road, Kwun Tong, Kowloon",九龍觀塘翠屏道18號翠屏(北)商場,九龙观塘翠屏道18号翠屏(北)商场,22.313284,114.229644,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7542.jpg
+tdc14p7622,Tsz Wan Shan Centre Car Park ,慈雲山中心停車場,慈云山中心停车场,"Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Kowloon",九龍慈雲山毓華街23號慈雲山中心,九龙慈云山毓华街23号慈云山中心,22.347916,114.200846,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7622.jpg
+tdc14p7623,Tsz Oi Car Park,慈愛停車場,慈爱停车场,"Tsz Oi Court Retail and Car Park, 2 Wan Wah Street, Tsz Wan Shan, Kowloon",九龍慈雲山雲華街2號慈愛苑商舖及停車場,九龙慈云山云华街2号慈爱苑商舖及停车场,22.349275,114.199577,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7623.jpg
+tdc14p7629,Fung Tak Car Park ,鳳德停車場,凤德停车场,"Fung Tak Shopping Centre, 111 Fung Tak Road, Diamond Hill, Kowloon",九龍鑽石山鳳德道111號鳳德商場,九龙钻石山凤德道111号凤德商场,22.3429501,114.2008493,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7629.jpg
+tdc14p7632,Tsz Lok Phase 1 Car Park ,慈樂1期停車場,慈乐1期停车场,"Tsz Wan Shan Shopping Centre, 23 
+Yuk Wah Street, Tsz Wan Shan, Kowloon",九龍慈雲山毓華街23號慈雲山中心,九龙慈云山毓华街23号慈云山中心,22.348781,114.19911,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7632.jpg
+tdc14p7633,Tsz Lok Phase 2 Car Park ,慈樂2期停車場,慈乐2期停车场,"Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Kowloon",九龍慈雲山毓華街23號慈雲山中心,九龙慈云山毓华街23号慈云山中心,22.3469694,114.1993685,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7633.jpg
+tdc14p7636,Tsz Lok Phase 3 Car Park ,慈樂3期停車場,慈乐3期停车场,"Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Tsz Wan Shan, Kowloon",九龍慈雲山毓華街23號慈雲山中心,九龙慈云山毓华街23号慈云山中心,22.346859,114.199564,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7636.jpg
+tdc14p7732,Choi Wan Car Park A,彩雲A停車場,彩云A停车场,"Choi Wan Commercial Complex, 45 Clear Water Bay Road, Ngau Chi Wan, Kowloon",九龍牛池灣清水灣道45號彩雲商場,九龙牛池湾清水湾道45号彩云商场,22.332597,114.214538,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7732.jpg
+tdc14p7733,Choi Wan Car Park B & C,"彩雲B,C停車場","彩云B,C停车场","Choi Wan Commercial Complex, 45 Clear Water Bay Road, Ngau Chi Wan, Kowloon",九龍牛池灣清水灣道45號彩雲商場,九龙牛池湾清水湾道45号彩云商场,22.334268,114.21403,Wong Tai Sin,黃大仙區,黄大仙区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7733.jpg
+tdc14p7737,Shun Lee Car Park A ,順利A停車場,顺利A停车场,"Shun Lee Commercial Centre, 15 Lee On 
+Road, Kwun Tong, Kowloon",九龍觀塘利安道15號順利商場,九龙观塘利安道15号顺利商场,22.332927,114.224524,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7737.jpg
+tdc14p7739,Shun Lee Car Park B ,順利B停車場,顺利B停车场,"Shun Lee 
+Commercial Centre, 15 Lee On Road, Kwun Tong, Kowloon",九龍觀塘利安道15號順利商場,九龙观塘利安道15号顺利商场,22.332332,114.225282,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7739.jpg
+tdc14p7740,Shun Lee Car Park  C,順利C停車場,顺利C停车场,"Shun Lee Commercial Centre, 15 Lee On Road, Kwun Tong, Kowloon",九龍觀塘利安道15號順利商場,九龙观塘利安道15号顺利商场,22.33008,114.226715,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7740.jpg
+tdc14p7742,Shun On Car Park ,順安停車場,顺安停车场,"Shun On Commercial Centre, 1 Lee On Road, Kwun Tong, Kowloon",九龍觀塘利安道1號順安商場,九龙观塘利安道1号顺安商场,22.328085,114.226643,Kwun Tong,觀塘區,观塘区,2830 3845,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p7742.jpg
+tdc14p8423,Oi Man Car Park ,愛民停車場,爱民停车场,"Oi Man Plaza, 60 Chung Hau Street, Ho Man Tin, Kowloon",九龍何文田忠孝街60號愛民廣場,九龙何文田忠孝街60号爱民广场,22.3112762,114.1792853,Kowloon City,九龍城區,九龙城区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8423.jpg
+tdc14p8424,Ho Man Tin Car Park ,何文田停車場,何文田停车场,"Homantin Plaza, 80 Fat Kwong Street, Ho Man Tin, Kowloon",九龍何文田佛光街80號何文田廣場,九龙何文田佛光街80号何文田广场,22.315026,114.182131,Kowloon City,九龍城區,九龙城区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8424.jpg
+tdc14p8426,Hung Hom Car Park ,紅磡停車場,红磡停车场,"Hung Hom Estate Retail and Car Park, 9 Dyer Avenue, Hung Hom, Kowloon",九龍紅磡戴亞街9號紅磡邨商舖及停車場,九龙红磡戴亚街9号红磡邨商舖及停车场,22.307175,114.188498,Kowloon City,九龍城區,九龙城区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8426.jpg
+tdc14p8428,Hoi Fu Car Park ,海富停車場,海富停车场,"Hoi Fu Shopping Centre, 2 Hoi Ting Road, Mong Kok, Kowloon",九龍旺角海庭路2號海富商場,九龙旺角海庭路2号海富商场,22.31575,114.165453,Yau Tsim Mong,油尖旺區,油尖旺区,2788 3070,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8428.jpg
+tdc14p8502,Butterfly Inner Car Park,蝴蝶停車場,蝴蝶停车场,"Butterfly Plaza, 1 Wu Chui Road, Tuen Mun, New Territories",新界屯門湖翠路1號蝴蝶廣場,新界屯门湖翠路1号蝴蝶广场,22.37566,113.962962,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8502.jpg
+tdc14p8511,Sam Shing Car Park ,三聖停車場,三圣停车场,"Sam Shing Commercial Centre, 6 Sam Shing Street, Tuen Mun,  New Territories",新界屯門三聖街6號三聖商場,新界屯门三圣街6号三圣商场,22.380657,113.978527,Tuen Mun,屯門區,屯门区,3471 2340,OPEN,0.0,"Height Limit: 
+For real-time parking space vacancy of this car park, please download Link Park and Dine App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查詢以上停車場之實時車位供應狀況，可立即下載領展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>","高度限制: 
+如欲查询以上停车场之实时车位供应状况，可立即下载领展「泊食易」App<br><a href=""https://www.linkhk.com/en/parkingDirectory"">https://www.linkhk.com/en/parkingDirectory</a>",http://resource.data.one.gov.hk/td/carpark/tdc14p8511.jpg
+tdc6p7,Po Shek Wu Estate,寶石湖邨,宝石湖邨,"Choi Yuen Road, Sheung Shui, N.T.",新界上水寶石湖路與彩園路路口,新界上水宝石湖路与彩园路路口,22.50333,114.1247,North,北區,北区,2739 0831,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p7.jpg
+tdc16p544,Tuen Mun Government Office,屯門政府合署,屯门政府合署,"No. 1 Tuen Hi Road, Tuen Mun",屯門屯喜路1號,屯门屯喜路1号,22.3899712106,113.9763359174,Tuen Mun,屯門區,屯门区,96828850,OPEN,0.0,"Height Limit: 2.6
+","高度限制: 2.6
+","高度限制: 2.6
+",http://resource.data.one.gov.hk/td/carpark/tdc16p544.jpg
+tdc6p10,Cheung Ching Estate Carpark,長青邨停車場,长青邨停车场,"Cheung Ching Estate Carpark Tsing Yi, NT",新界青衣長青邨,新界青衣长青邨,22.34520075,114.109138703,Kwai Tsing,葵青區,葵青区,93870562,OPEN,0.0,"Height Limit: NIL
+24hours on duty","高度限制: 不適用
+24小時開放","高度限制: 不适用
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p10.jpg
+tdc6p11,Cheung Shan Estate Carpark,象山邨停車場,象山邨停车场,"Cheung Shan Estate Carpark Tsuen Wan, NT",新界荃灣象山邨,新界荃湾象山邨,22.378625303,114.130549011,Tsuen Wan,荃灣區,荃湾区,98455563,OPEN,0.0,"Height Limit: 1.8(Applicable to Private Cars/Vans)
+24hours on duty","高度限制: 1.8(此高度限制適用於私家車/客貨車)
+24小時開放","高度限制: 1.8(此高度限制适用于私家车/客货车)
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p11.jpg
+tdc6p12,Lung Poon Court Carpark,龍蟠苑停車場,龙蟠苑停车场,"Lung Poon Court Carpark Diamond Hill, Kln",九龍鑽石山龍蟠苑,九龙钻石山龙蟠苑,22.341731028,114.20028889,Wong Tai Sin,黃大仙區,黄大仙区,28303845,OPEN,0.0,"Height Limit: 1.8 (Applicable to Private Cars/Vans)
+24hours on duty","高度限制: 1.8 (此高度限制適用於私家車/客貨車)
+24小時開放","高度限制: 1.8 (此高度限制适用于私家车/客货车)
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p12.jpg
+tdc6p8,Kwai Shing West Estate Carpark,葵盛西邨停車場,葵盛西邨停车场,"Kwai Shing (West) Estate Carpark Kwai Chung, NT ",新界葵涌葵盛西邨,新界葵涌葵盛西邨,22.362299167,114.123577257,Kwai Tsing,葵青區,葵青区,98553566,OPEN,0.0,"Height Limit: 1.9 (Applicable to Private Cars/Vans)
+24hours on duty","高度限制: 1.9 (此高度限制適用於私家車/客貨車)
+24小時開放","高度限制: 1.9 (此高度限制适用于私家车/客货车)
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p8.jpg
+tdc6p9,Lai King Estate Carpark,荔景邨停車場,荔景邨停车场,"Lai King Estate Carpark Kwai Chung, NT",新界葵涌荔景邨,新界葵涌荔景邨,22.350990252,114.126459924,Kwai Tsing,葵青區,葵青区,91365567,OPEN,0.0,"Height Limit: N/A
+24hours on duty","高度限制: 不適用
+24小時開放","高度限制: 不适用
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p9.jpg
+tdc17p1,WKCD Xiqu Centre Car Park,西九文化區戲曲中心停車場,西九文化区戏曲中心停车场,"88 Austin Road West, Tsim Sha Tsui, Kowloon ",九龍尖沙咀柯士甸道西88號,九龙尖沙咀柯士甸道西88号,22.302356716,114.167349602,Yau Tsim Mong,油尖旺區,油尖旺区,,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+24 hours","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+24小時","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+24小时",http://resource.data.one.gov.hk/td/carpark/tdc17p1.jpg
+tdc1p5,Lee Garden Three Car Park,利園三期停車場,利园三期停车场,"1 Sunning Road, Causeway Bay, Hong Kong",香港 銅鑼灣 新寧道1號,香港 铜锣湾 新宁道1号,22.277647169,114.185359006,Wan Chai,灣仔區,湾仔区,,OPEN,2.4,"Height Limit: 
+Electric Vehicle Charging Service is now available at B3/F of Lee Garden One Car Park (1 no.), B1/F of Lee Garden Two Car Park (1 no.), B3/F of Lee Garden Three Car Park (9 nos.) and 4/F of Leighton Car Park (1 no.). 
+
+Tesla Superchargers are also in service on the B3/F of Lee Garden One Car Park (2 nos.).
+","高度限制: 
+12個電動車充電服務已分別於利園一期停車場B3樓(1個)、利園二期停車場B1樓(1個)、利園三期停車場B3樓(9個)及禮頓中心停車場4樓(1個)正式投入服務。
+
+2個Tesla Supercharger現也於利園一期停車場B3樓正式投入服務。","高度限制: 
+12个电动车充电服务已分别于利园一期停车场B3楼(1个)、利园二期停车场B1楼(1个)、利园三期停车场B3楼(9个)及礼顿中心停车场4楼(1个)正式投入服务。
+
+2个Tesla Supercharger现也于利园一期停车场B3楼正式投入服务。",http://resource.data.one.gov.hk/td/carpark/tdc1p5.jpg
+tdc17p2,Zone E Car Park,E區停車場,E区停车场,"West Kowloon Cultural District, No.36 Museum Drive, Kowloon, Hong Kong",香港九龍西九文化區博物館路36號,香港九龙西九文化区博物馆路36号,22.301372571,114.158341115,Yau Tsim Mong,油尖旺區,油尖旺区,52820288,OPEN,0.0,"Height Limit: 2.1 (Applicable to Private Cars/Vans)
+24 hours","高度限制: 2.1 (此高度限制適用於私家車/客貨車)
+24小時","高度限制: 2.1 (此高度限制适用于私家车/客货车)
+24小时",http://resource.data.one.gov.hk/td/carpark/tdc17p2.jpg
+tdc17p3,PSO Car Park,項目辦公室停車場,项目办公室停车场,"Project Site Office, WKCD, Kowloon, Hong Kong",香港九龍西九文化區項目辦公室,香港九龙西九文化区项目办公室,22.302552693,114.156506313,Yau Tsim Mong,油尖旺區,油尖旺区,,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+07:00-23:00","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+07:00-23:00","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+07:00-23:00",http://resource.data.one.gov.hk/td/carpark/tdc17p3.jpg
+tdc2p8,Airport Car Park 3 - Urban & Lantau Taxi (HOURLY),機場三號停車場 - 市區及大嶼山的士(時租),机场三号停车场 - 市区及大屿山的士(时租),"Sky Plaza Road Central, Hong Kong International Airport, Lantau",大嶼山香港國際機場翔天中路,大屿山香港国际机场翔天中路,22.31267043,113.9367046,Islands,離島區,离岛区,2183 4630,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p8.jpg
+tdc2p9,Airport Car Park 3 - Urban & Lantau Taxi (LONG-TER,機場三號停車場 - 市區及大嶼山的士(長期停放),机场三号停车场 - 市区及大屿山的士(长期停放),"Sky Plaza Road Central, Hong Kong International Airport, Lantau",大嶼山香港國際機場翔天中路,大屿山香港国际机场翔天中路,22.31249673,113.937091,Islands,離島區,离岛区,2183 4630,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p9.jpg
+tdc2p10,Airport Car Park 3 - Light Goods Vehicle (HOURLY),機場三號停車場 - 輕型貨車(時租),机场三号停车场 - 轻型货车(时租),"Sky Plaza Road Central, Hong Kong International Airport, Lantau",大嶼山香港國際機場翔天中路,大屿山香港国际机场翔天中路,22.314164,113.9374,Islands,離島區,离岛区,2183 4630,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p10.jpg
+tdc2p11,Airport Car Park 3 - Light Goods Vehicle (LONG-TER,機場三號停車場 - 輕型貨車(長期停放),机场三号停车场 - 轻型货车(长期停放),"Sky Plaza Road Central, Hong Kong International Airport, Lantau",大嶼山香港國際機場翔天中路,大屿山香港国际机场翔天中路,22.31220107,113.936833,Islands,離島區,离岛区,2183 4630,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc2p11.jpg
+tdc14p7543,Tsui Ping South Car Park,翠屏南停車場,翠屏南停车场,"Tsui Ping South Estate Car Park, 19 Tsui Ping Road, Kwun Tong,  Kowloon",九龍觀塘翠屏道19號翠屏南邨停車場,九龙观塘翠屏道19号翠屏南邨停车场,22.31227493,114.2304077,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p7543.jpg
+tdc14p7545,Po Pui Car Park,寶珮停車場,宝珮停车场,"Po Pui Court Car Park, Po Pui Street, Kwun Tong,  Kowloon",九龍觀塘寶珮街寶珮苑停車場,九龙观塘宝珮街宝珮苑停车场,22.31707954,114.2279739,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p7545.jpg
+tdc8p14,MTR Tsuen Wan West Station Car Park,港鐵荃灣西站停車場,港铁荃湾西站停车场,"MTR Tsuen Wan West Station, Tai Ho Road, Tsuen Wan",荃灣大河道港鐵荃灣西站,荃湾大河道港铁荃湾西站,22.3699532,114.108223,Tsuen Wan,荃灣區,荃湾区,,OPEN,0.0,"Height Limit: 2.4
+","高度限制: 2.4
+","高度限制: 2.4
+",http://resource.data.one.gov.hk/td/carpark/tdc8p14.jpg
+tdc29p1,Hong Kong Heritage Museum Carpark,香港文化博物館停車場,香港文化博物馆停车场,"Hong Kong Heritage Museum Carpark,  Sha Tin, NT",沙田香港文化博物館停車場,沙田香港文化博物馆停车场,22.37736724,114.1853745,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 3.8
+","高度限制: 3.8
+","高度限制: 3.8
+",http://resource.data.one.gov.hk/td/carpark/tdc29p1.jpg
+tdc44p1,Kowloon Park,九龍公園,九龙公园,"22, Austin Road, Tsim Sha Tsui, Kowloon",九龍尖沙咀柯士甸道22號,九龙尖沙咀柯士甸道22号,22.30192947,114.17054749,,,,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc44p1.jpg
+tdc38p3,Tuen Mun North West Swimming Pool,屯門西北游泳池,屯门西北游泳池,"95 Ming Kum Road, Tuen Mun, N.T.",屯門鳴琴路95號,屯门鸣琴路95号,22.4086647,113.9655685,Tuen Mun,屯門區,屯门区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc38p3.jpg
+tdc14p6603,Sau Mau Ping Phase 1 Car Park,秀茂坪1期停車場,秀茂坪1期停车场,"Sau Mau Ping Shopping Centre, 101 Sau Ming Road, Sau Mau Ping,  Kwun Tong, Kowloon",九龍觀塘秀茂坪秀明道101號秀茂坪商場,九龙观塘秀茂坪秀明道101号秀茂坪商场,22.31571388,114.2334137,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p6603.jpg
+tdc39p1,Siu Sai Wan Sports Ground,小西灣運動場停車場,小西湾运动场停车场,"8 Fu Hong Street, Siu Sai Wan",小西灣富康街8號,小西湾富康街8号,22.26750976,114.24790753,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc39p1.jpg
+tdc74p2,Tseung Kwan O Sports Ground,將運澳運動場,将运澳运动场,"109 Po Hong Road, Tseung Kwan O",將軍澳寶康路109號,将军澳宝康路109号,22.31162834,114.26316071,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc74p2.jpg
+tdc74p3,Hong Kong Velodrome,香港單車館,香港单车馆,"105-107 Po Hong Road, Tseung Kwan O",將軍澳寶康路105-107號,将军澳宝康路105-107号,22.31275368,114.26148987,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc74p3.jpg
+tdc74p4,Tiu Keng Leng Sports Centre,調景嶺體育館,调景岭体育馆,"2 Chui Ling Road, Tseung Kwan O",將軍澳翠嶺路2號,将军澳翠岭路2号,22.30589104,114.25471497,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc74p4.jpg
+tdc74p5,Wan Po Road Pet Garden,環保大道寵物公園,环保大道宠物公园,Wan Po Road,將軍澳環保大道,将军澳环保大道,22.30503273,114.26878357,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc74p5.jpg
+tdc44p3,Waterfall Bay Park,瀑布灣公園,瀑布湾公园,"Waterfall Bay Road, Wah Fu Estate, Aberdeen, Hong Kong",香港仔華富邨瀑布灣道,香港仔华富邨瀑布湾道,22.25065422,114.1348877,,,,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc44p3.jpg
+tdc41p2,Deep Water Bay Carpark,深水灣泳灘停車場,深水湾泳滩停车场,Deep Water Bay Carpark,深水灣泳灘停車場,深水湾泳滩停车场,22.2443924,114.18841553,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc41p2.jpg
+tdstt48,Opposite to Ma Hang Estate at Carmel Road,香港赤柱佳美道馬坑邨對面,香港赤柱佳美道马坑邨对面,"Opposite to Ma Hang Estate at Carmel Road, Stanley, Hong Kong",香港赤柱佳美道馬坑邨對面,香港赤柱佳美道马坑邨对面,22.22223091,114.20754242,Southern,南區,南区,93090598,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt48.jpg
+tdc44p2,Aberdeen Tennis and Squash Centre,香港仔網球及壁球中心,香港仔网球及壁球中心,"No. 1 Aberdeen Praya Road, Aberdeen, Hong Kong",香港仔海傍道1號,香港仔海傍道1号,22.2475605,114.15982819,,,,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc44p2.jpg
+tdc47p1,Tung Chung Municipal Services Building,東涌市政大樓,东涌市政大楼,"39 Man Tung Road, Tung Chung, Lantau Island",新界大嶼山東涌文東路39 號,新界大屿山东涌文东路39 号,22.29058075,113.94390869,Islands,離島區,离岛区,90799992,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc47p1.jpg
+tdc41p1,Island East Sports Center,港島東體育館停車場,港岛东体育馆停车场,Island East Sports Center,港島東體育館停車場,港岛东体育馆停车场,22.28487015,114.2223587,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc41p1.jpg
+tdc43p1,Shun Lee Tsuen Park,順利邨公園,顺利邨公园,Shun Lee Tsuen Park,順利邨公園,顺利邨公园,22.32897567,114.22483826,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc43p1.jpg
+tdc53p3,Hong Ning Road Park,康寧道公園,康宁道公园,"Junction between Hong Ning Road and Wo Hong Path, Kwun Tong, KL",九龍觀塘康寧道和康徑交界,九龙观塘康宁道和康径交界,22.32036781,114.22460175,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc53p3.jpg
+tdc22p1,Hong Kong Disneyland Car Park,香港迪士尼樂園私家車停車場,香港迪士尼乐园私家车停车场,"Hong Kong Disneyland Resort, Lautau Island, Hong Kong",香港大嶼山香港迪士尼樂園度假區,香港大屿山香港迪士尼乐园度假区,22.316644,114.047746,Tsuen Wan,荃灣區,荃湾区,3550-3388,OPEN,0.0,"Height Limit: 5.5 (Applicable to Private Cars/Vans)
+From 8:30am until 2 hours after the park closes","高度限制: 5.5 (此高度限制適用於私家車/客貨車)
+早上8：30開放，直至樂園關閉後兩個小時為止","高度限制: 5.5 (此高度限制适用于私家车/客货车)
+早上8：30开放，直至乐园关闭后两个小时为止",http://resource.data.one.gov.hk/td/carpark/tdc22p1.jpg
+tdc58p1,Wong Nai Chung Gap Children Playground,黃泥涌峽兒童遊樂場,黄泥涌峡儿童游乐场,"Tai Tam Reservoir Rd, Tai Tam",大潭水塘道,大潭水塘道,22.25724983,114.19390869,Wan Chai,灣仔區,湾仔区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc58p1.jpg
+tdc58p2,Lei Yue Mun Municipal Services Building,鯉魚門市政大廈,鲤鱼门市政大厦,"6 Lei Yue Mun Path, Yau Tong",油塘鯉魚門徑6號,油塘鲤鱼门径6号,22.29226875,114.23883057,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc58p2.jpg
+tdc38p1,Hong Kong Tennis Centre,香港網球中心,香港网球中心,"133, Wong Nai Chung Gap Road, Wan Chai, Hong Kong",香港灣仔黃泥涌峽道133號,香港湾仔黄泥涌峡道133号,22.26015854,114.1923294,Wan Chai,灣仔區,湾仔区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc38p1.jpg
+tdc38p2,The Jockey Club Tuen Mun Butterfly Beach Sports Ce,賽馬會屯門蝴蝶灣體育館,赛马会屯门蝴蝶湾体育馆,"No. 11 Wu Shan Road, Tuen Mun, N.T.",新界屯門湖山路11號,新界屯门湖山路11号,22.37870168,113.9647093,Tuen Mun,屯門區,屯门区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc38p2.jpg
+tdc27p1,Kowloon Tsai Park Carpark,九龍仔公園停車場,九龙仔公园停车场,"13 Inverness Road, Kowloon City",九龍城延文禮士道13號,九龙城延文礼士道13号,22.33398628,114.18489838,Kowloon City,九龍城區,九龙城区,,OPEN,0.0,"Height Limit: 3.8
+","高度限制: 3.8
+","高度限制: 3.8
+",http://resource.data.one.gov.hk/td/carpark/tdc27p1.jpg
+tdc61p1,Tai Po Lung Mei Beach,大埔龍尾泳灘,大埔龙尾泳滩,"Lung Mei Beach, Ting Kok Road, Tai Po, New Territories",香港新界大埔區汀角路龍尾泳灘,香港新界大埔区汀角路龙尾泳滩,22.47158876,114.22726332,Tai Po,大埔區,大埔区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc61p1.jpg
+tdc48p3,Sham Shui Po Sports Ground,深水埗運動場,深水埗运动场,"3 Hing Wah Street, Cheung Sha Wan, Kowloon",九龍長沙灣興華街3號,九龙长沙湾兴华街3号,22.33738708,114.15156555,,,,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc48p3.jpg
+tdc48p2,Lung Cheung Road Lookout,龍翔道觀景台,龙翔道观景台,Lung Cheung Road,龍翔道,龙翔道,22.34304237,114.17129517,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc48p2.jpg
+tdc48p1,Lai Chi Kok Park,荔枝角公園,荔枝角公园,"1 Lai Wan Road, Lai Chi Kok, Kowloon",九龍荔枝角荔灣道1號,九龙荔枝角荔湾道1号,22.33974648,114.13822174,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc48p1.jpg
+tdc46p1,Papillons Square Car Park,翩滙坊停車場,翩滙坊停车场,"The Papillons, 21 Tong Chun Street, Tseung Kwan O, N.T.",將軍澳唐俊街21號海翩滙,将军澳唐俊街21号海翩滙,22.30326843,114.26262665,Sai Kung,西貢區,西贡区,35592254,OPEN,0.0,"Height Limit: 2.4 & 4.7
+","高度限制: 2.4 & 4.7
+","高度限制: 2.4 & 4.7
+",http://resource.data.one.gov.hk/td/carpark/tdc46p1.jpg
+tdc9p3,Tai Po Complex Car Park,大埔綜合大樓停車場,大埔综合大楼停车场,"No. 8 Heung Sze Wui Street, Tai Po",大埔鄉事會街8號,大埔乡事会街8号,22.44634819,114.16671753,Tai Po,大埔區,大埔区,2370 8881,OPEN,0.0,"Height Limit: 3.2 (Applicable to Private Cars/Vans)
+","高度限制: 3.2 (此高度限制適用於私家車/客貨車)
+","高度限制: 3.2 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc9p3.jpg
+tdc56p1,North District Government Offices,北區政府合署,北区政府合署,"No. 3 Pik Fung Road, Fanling, New Territories, Hong Kong",香港新界粉嶺璧峰路3號,香港新界粉岭璧峰路3号,22.49464226,114.13826752,North,北區,北区,62145791,OPEN,0.0,"Height Limit: 
+","高度限制: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (Applicable to Private Cars/Vans)
+",http://resource.data.one.gov.hk/td/carpark/tdc56p1.jpg
+tdc10p2,Shatin Government Offices,沙田政府合署,沙田政府合署,"Sha Tin Government Offices, 1 Sheung Wo Che Road, Sha Tin, NT",新界沙田上禾輋路1號沙田政府合署,新界沙田上禾輋路1号沙田政府合署,22.385732692,114.186986002,,,,92078527/2912 3713,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+Hourly<br>
+Monday to Friday $10 per hour <br>
+Saturday, Sunday and Public holidays $15 per hour<br>
+<br>
+Night Park<br>
+$60<br>
+<br>
+Monthly<br>
+$700 (private car)<br>
+$200 (motorcycles)","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+時租<br>星期一至五  每小時 $15<br>星期六﹑日及公眾假期  每小時 $20<br><br>夜泊<br>$60<br><br>月租<br>$700（私家車）<br>$200（電單車）","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc10p2.jpg
+tdc10p4,"Revenue Tower
+Wanchai Tower 
+Immigration Tower",灣仔政府大樓、入境事務大樓及稅務大樓,湾仔政府大楼、入境事务大楼及税务大楼,"12 Harbour Road, 7 Gloucester Road and 5 Gloucester Road, Wan Chai, HK",香港灣仔港灣道12號、告士打道7號及告士打道5號,香港湾仔港湾道12号、告士打道7号及告士打道5号,22.28018712,114.17260722,Wan Chai,灣仔區,湾仔区,6676 3162/2912 3713,OPEN,0.0,"Height Limit: 2
+Hourly<br>
+Monday to Friday (except public holidays) from 19:00 - 07:00 , $13 per half hour (private car)<br>
+<br>
+Saturday, Sunday and public holidays from 19:00 - 07:00 $ 12 per half hour (private cars)<br>
+<br>
+Monday to Friday (except public holidays) from 19:00 - 07:00 $ 8 per half hour (motorcycles)<br>
+<br>
+Saturday, Sunday and public holidays from 07:00 - 07:00, $15 per half hour (motorcycles)<br>
+<br>
+Monthly<br>
+$ 1,200 (private car)<br>
+Monday to Friday 19:00 - 07:00, Saturday, Sunday and public holidays from 07:00 - 07:00<br>
+<br>
+","高度限制: 2
+時租<br>
+星期一至五(假期除外)19:00 - 07:00  每半小時 $13（私家車）
+<br><br>
+星期六﹑日及公眾假期7:00 - 07:00  每半小時 $12（私家車）
+<br><br>
+星期一至五(假期除外)19:00 - 07:00  每半小時 $8（電單車）
+<br><br>
+星期六﹑日及公眾假期7:00 - 07:00  每半小時 $15（電單車）
+<br><br>
+月租<br>
+$1,200（私家車）<br>
+星期一至五19:00 - 07:00, 星期六﹑日及公眾假期7:00 - 07:00
+","高度限制: 2
+",http://resource.data.one.gov.hk/td/carpark/tdc10p4.jpg
+tdc37p1,Tai Po Government Offices,大埔政府合署,大埔政府合署,"1 Ting Kok Road, Tai Po, New Territories",新界大埔汀角路1號,新界大埔汀角路1号,22.45084381,114.16431427,Tai Po,大埔區,大埔区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc37p1.jpg
+tdc57p1,West Kowloon Government Offices,西九龍政府合署,西九龙政府合署,"No. 11 Hoi Ting Road, Yau Ma Tei, Kowloon",香港九龍油麻地海庭道11號,香港九龙油麻地海庭道11号,22.31258215,114.1633103,Yau Tsim Mong,油尖旺區,油尖旺区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc57p1.jpg
+tdc60p1,Che Kung Temple Sports Centre,車公廟體育館,车公庙体育馆,10 SHA TIN TAU ROAD,沙田頭路10號,沙田头路10号,22.37223061,114.18558905,,,,29123713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc60p1.jpg
+tdc10p3,Cheung Sha Wan Government Offices,長沙灣政府合署,长沙湾政府合署,"Cheung Sha Wan Government Offices, 303 Cheung Sha Wan Road, Kowloon",九龍長沙灣道303號長沙灣政府合署,九龙长沙湾道303号长沙湾政府合署,22.331759072,114.160364488,Sham Shui Po,深水埗區,深水埗区,21104795/9161 9091/2912 3713,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+Hourly<br>
+07:00 - 12:00 every half hour $15<br>
+12:00 - 19:00 every half hour $20<br>
+19:00 - 07:00 every half hour $12<br>
+<br>
+Night Park<br>
+$ 50<br>
+<br>
+Monthly<br>
+$ 3500 (private car)<br>
+$ 1100 (motorcycles)","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+時租<br>07:00 - 12:00  每半小時 $15<br>12:00 - 19:00  每半小時 $20<br>19:00 - 07:00  每半小時 $12<br><br>夜泊<br>$50<br><br>月租<br>$3,500  （私家車）<br>$1100  （電單車）","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc10p3.jpg
+tdc42p1,Chai Wan Municipal Services Building,柴灣市政大廈,柴湾市政大厦,"338 Chai Wan Road, Chai Wan",柴灣道338號,柴湾道338号,22.26336479,114.23993683,Eastern,東區,东区,22875066,OPEN,0.0,"Height Limit: 2.1
+Hourly<br>
+Monday to Friday $ 16 per hour (private car)<br>
+Saturday, Sunday and Public holidays, $18 per hour (private car)<br>
+$10 per hour (motorcycles)<br>
+<br>
+Monthly<br>
+$2,800 (private car)<br>
+$700 (motorcycles)","高度限制: 2.1
+時租
+星期一至五  每小時 $16 (私家車)
+星期六﹑日及公眾假期  每小時 $18 (私家車）
+每小時 $10（電單車）
+
+月租
+$2,800（私家車）
+$700（電單車）","高度限制: 2.1
+时租
+星期一至五  每小时 $16 (私家车)
+星期六﹑日及公众假期  每小时 $18 (私家车）
+每小时 $10（电单车）
+
+月租
+$2,800（私家车）
+$700（电单车）",http://resource.data.one.gov.hk/td/carpark/tdc42p1.jpg
+tdc35p1,Hing Wah II Estate Carpark,興華二邨停車場,兴华二邨停车场,"18 Wan Tsui Road, Chai Wan",柴灣環翠道18號,柴湾环翠道18号,22.26326561,114.23344421,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc35p1.jpg
+tdc6p21,Yue Wan Estate Car Park,漁灣邨停車場,渔湾邨停车场,"365 Chai Wan Road, Chai Wan, Hong Kong",柴灣柴灣道365號,柴湾柴湾道365号,22.26508713,114.2402191,Eastern,東區,东区,2505 1471 / 5281 0834 ,OPEN,0.0,"Height Limit: 2.1 (Applicable to Private Cars/Vans)
+","高度限制: 2.1 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.1 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p21.jpg
+tdc6p13,Kwai Chung Ph. 3 & 4,葵涌邨（第三及四期）,葵涌邨（第三及四期）,"TAI WO HAU ROAD, KWAI TSING",葵青 大窩口道,葵青 大窝口道,22.3679047,114.1286087,Kwai Tsing,葵青區,葵青区,,,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc6p13.jpg
+tdc6p14,Choi Hung Estate,彩虹邨,彩虹邨,"CHOI HUNG ROAD, WONG TAI SIN",黃大仙 彩虹道,黄大仙 彩虹道,22.3346329,114.2072296,Wong Tai Sin,黃大仙區,黄大仙区,,,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc6p14.jpg
+tdc6p15,Lei Yue Mun Estate,鯉魚門邨,鲤鱼门邨,"YAN WING STREET, KWUN TONG",觀塘 欣榮街,观塘 欣荣街,22.2946053,114.2401428,Kwun Tong,觀塘區,观塘区,,,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc6p15.jpg
+tdc34p1,On Tat Estate Car park,安達邨停車場,安达邨停车场,"3, On Chui Street, Kwun Tong",觀塘安翠街3號,观塘安翠街3号,22.3206501,114.23608398,Kwun Tong,觀塘區,观塘区,9229-0831,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars / Vans)        4.1 (Applicable to Container Vehicles)
+","高度限制: 2.4 (此高度限制適用於私家車/客貨車)        4.1 (此高度限制適用於貨車)
+","高度限制: 2.4 (此高度限制适用于私家车/客货车)        4.1 (此高度限制适用于货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc34p1.jpg
+tdc6p19,Hoi Lai Estate Car Park,海麗邨停車場,海丽邨停车场,"100 Sham Mong Road, Cheung Sha Wan, Kowloon, HK",九龍長沙灣深旺道100號,九龙长沙湾深旺道100号,22.33249474,114.1458664,Sham Shui Po,深水埗區,深水埗区,3514 6415 / 5281 1471,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+","高度限制: 2.4 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.4 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p19.jpg
+tdc14p5408,Un Chau Car Park,元州停車場,元州停车场,"Un Chau Shopping Centre, 303 Un Chau Street, Cheung Sha Wan,  Kowloon",九龍長沙灣元州街303號元州商場,九龙长沙湾元州街303号元州商场,22.33754349,114.1556397,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M                                                                           
+","高度限制: 2.4M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p5408.jpg
+tdc6p18,Shui Chuen O Capark,水泉澳停車場,水泉澳停车场,"Shui Chuen O Plaza, 1 Pok Chuen Street, Shatin",沙田博泉街1號水泉澳廣場,沙田博泉街1号水泉澳广场,22.3737011,114.19704437,Sha Tin,沙田區,沙田区,2377 9431,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+","高度限制: 2.4 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.4 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p18.jpg
+tdc6p20,Shek Pai Wan Estate Car Park,石排灣邨停車場,石排湾邨停车场,"Shek Pai Wan, Yue Kwong Road, Aberdeen, Hong Kong",香港仔石排灣漁光道,香港仔石排湾渔光道,22.24921036,114.1585693,Southern,南區,南区,3583 0248,OPEN,0.0,"Height Limit: 3.8 (Applicable to Private Cars/Vans)
+","高度限制: 3.8 (此高度限制適用於私家車/客貨車)
+","高度限制: 3.8 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc6p20.jpg
+tdc6p16,Lei Muk Shue Shopping Centre,梨木樹商場,梨木树商场,"NGONG HOM ROAD, TSUEN WAN",荃灣 昂磡路,荃湾 昂磡路,22.378336,114.1361771,Tsuen Wan,荃灣區,荃湾区,,,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc6p16.jpg
+tdc6p17,Hung Fuk Estate Carpark,洪福邨停車場,洪福邨停车场,"Hung Fuk Shopping Centre Management Office, G/F, Ancillary Facilities Block, Hung Fuk Estate, Hung Shui Kiu, Yuen Long",元朗洪水橋洪福邨服務設施大樓地下洪福商場管理處,元朗洪水桥洪福邨服务设施大楼地下洪福商场管理处,22.43649101,113.99769592,Yuen Long,元朗區,元朗区,2377 9431,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+24hr open","高度限制: 2.4 (此高度限制適用於私家車/客貨車)
+24小時開放","高度限制: 2.4 (此高度限制适用于私家车/客货车)
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc6p17.jpg
+tdc26p1,No.1 Lei Yue Mun Path Public Carpark,鯉魚門徑1號公眾停車場,鲤鱼门径1号公众停车场,"No.1 Lei Yue Mun Path, Yau Tong, Kowloon",九龍油塘鯉魚門徑1號,九龙油塘鲤鱼门径1号,22.292694384,114.238817154,Kwun Tong,觀塘區,观塘区,2791 1860,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+","高度限制: 2.4 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.4 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc26p1.jpg
+tdc26p2,Pioneer Centre Car Park,始創中心停車場,始创中心停车场,NO.133 Sai Yeung Choi Street South,西洋菜南街133號,西洋菜南街133号,22.32224464,114.16905212,Yau Tsim Mong,油尖旺區,油尖旺区,2399 8201,OPEN,0.0,"Height Limit: 2.1 M (Applicable to Private Cars/Vans)
+86","高度限制: 2.1米 (此高度限制適用於私家車/客貨車)
+86","高度限制: 2.1米 (此高度限制适用于私家车/客货车)
+86",http://resource.data.one.gov.hk/td/carpark/tdc26p2.jpg
+tdc14p8888,The Quayside Car Park,海濱匯停車場,海滨汇停车场,"The Quayside,77 Hoi Bun Road,Kwun Tong,Kowloon,Hong Kong
+",香港九龍觀塘海濱道77號海濱匯,香港九龙观塘海滨道77号海滨汇,22.316532625,114.213428223,Kwun Tong,觀塘區,观塘区,3951 0838,OPEN,0.0,"Height Limit: 2.4( Private Cars)<br>3.6( Container Vehicles)
+Private Vehicle Hourly Parking:<br>
+-Mon - Fri (except PH): $25<br>
+-Sat/Sun/PH: $16<br><br>
+
+-Private Vehicle Day Park (8:00-20:00):<br>
+-Mon - Fri (except PH): $160<br>
+-Sat/Sun/PH: $60<br><br>
+
+-Private Vehicle Night Park (18:00-8:00): $60<br><br>
+
+Loading and Unloading (Lorry):<br>
+-First 30 mins: $10<br>
+-Per 30 mins thereafter: $30<br><br>
+
+Loading Unloading (Motorcycle):<br>
+-Grace period for first 30 mins<br>
+-First 60 mins: $40<br>
+-Per 30 mins thereafter: $30<br><br>
+
+EV Charging:<br>
+Ordinary 13A Charger : Free<br>
+Quick Charge: $6 per 30 mins<br>
+Super Charge: $38 per 30 mins","高度限制: 2.4( 私家車)<br>3.6( 貨櫃車)
+私家車時租:<br>
+-星期一至五(公眾假期除外): $25<br>
+-星期六、日及公眾假期: $16<br><br>
+
+-私家車日泊 (8:00-20:00): <br>
+-星期一至五(公眾假期除外): $160<br>
+-星期六、日及公眾假期: $60<br><br>
+
+-私家車夜泊 (18:00-8:00): $60 <br><br>
+
+貨車上落貨時租:<br>
+-首三十分鐘: $10<br>
+-其後每30分鐘: $30<br><br>
+
+電單車上落貨時租:<br>
+-首30分鐘免費<br>
+-首60分鐘: $40<br>
+-期後每30分鐘: $30<br><br>
+
+電動車充電:<br>
+13A充電: 免費<br>
+快速充電: 每半小時$6<br>
+超級充電: 每半小時$38","高度限制: 2.4( 私家车)<br>3.6( 货柜车)
+私家车时租:<br>
+-星期一至五(公众假期除外): $25<br>
+-星期六、日及公众假期: $16<br><br>
+
+-私家车日泊 (8:00-20:00): <br>
+-星期一至五(公众假期除外): $160<br>
+-星期六、日及公众假期: $60<br><br>
+
+-私家车夜泊 (18:00-8:00): $60 <br><br>
+
+货车上落货时租:<br>
+-首三十分钟: $10<br>
+-其后每30分钟: $30<br><br>
+
+电单车上落货时租:<br>
+-首30分钟免费<br>
+-首60分钟: $40<br>
+-期后每30分钟: $30<br><br>
+
+电动车充电:<br>
+13A充电: 免费<br>
+快速充电: 每半小时$6<br>
+超级充电: 每半小时$38",http://resource.data.one.gov.hk/td/carpark/tdc14p8888.jpg
+tdc14p4259,Sha Kok Car Park 1,沙角1號停車場,沙角1号停车场,"Sha Kok Commercial Centre, 5 Sha Kok Street, Sha Tin,  New Territories",新界沙田沙角街5號沙角商場,新界沙田沙角街5号沙角商场,22.377772874,114.194143841,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc14p4259.jpg
+tdc14p4258,Sha Kok Car Park 2,沙角2號停車場,沙角2号停车场,"Sha Kok Commercial Centre, 5 Sha Kok Street, Sha Tin,  New Territories",新界沙田沙角街5號沙角商場,新界沙田沙角街5号沙角商场,22.378105999,114.193963002,Sha Tin,沙田區,沙田区,3471 2340,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc14p4258.jpg
+tdc33p2,Jordan Valley Playground,佐敦谷公園遊樂場停車場,佐敦谷公园游乐场停车场,"Choi Ha Road, Ngau Tau Kok, Kowloon",彩霞道18號,彩霞道18号,22.32454109,114.21762848,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+(1) From 7:00 a.m. to 11:00 p.m.:
+
+Private car, van-type light good vehicle, taxi and Motorcycle:
+
+- For each half hour: $4 (Mon-Fri) and $9 (Sat, Sun & Holidays)
+
+- Every half hour thereafter: $6 (Mon-Fri) and $13.5 (Sat, Sun, PH)
+
+
+
+(2) From 11:00 p.m. until before 7:00 a.m. of the following day:
+
+- For each half hour: $0.5 (Mon-Fri, and Sat, Sun & Holidays)
+","高度限制: 2.45
+（1）從上午7點到晚上11點：
+
+私家車，輕型貨車，的士和電單車：
+
+- 首兩小時每半小時​​：$ 4（星期一至五）和$ 9（星期六，日及公眾假期）
+
+- 此後每半小時：$ 6（星期一至五）和$ 13.5（星期六，日及公眾假期）
+
+
+
+（2）從晚上11點直到翌日上午7點：
+
+- 每半小時​​：$ 0.5（星期一至五，星期六，日及公眾假期）
+","高度限制: 2.45
+（1）从上午7点到晚上11点：
+
+私家车，轻型货车，的士和电单车：
+
+- 首两小时每半小时​​：$ 4（星期一至五）和$ 9（星期六，日及公众假期）
+
+- 此后每半小时：$ 6（星期一至五）和$ 13.5（星期六，日及公众假期）
+
+
+
+（2）从晚上11点直到翌日上午7点：
+
+- 每半小时​​：$ 0.5（星期一至五，星期六，日及公众假期）
+",http://resource.data.one.gov.hk/td/carpark/tdc33p2.jpg
+tdc33p1,Kowloon Bay Park,九龍灣公園停車場,九龙湾公园停车场,"18 Kai Lai Road, Kowloon Bay",九龍灣啟禮道18號,九龙湾启礼道18号,22.32723236,114.20716095,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+1) Day Parking: First 2 hours: $5/ Half-hr., after 2 hours: $7.5/Half-hr., from 0700-2300; $0.5/Half-hr. from 2300-0700
+
+","高度限制: 2.45
+1） 時租：首2小時：$ 5 /半小時，2小時後：$ 7.5 /半小時，從0700-2300; $ 0.5 /半小時, 從2300-0700
+","高度限制: 2.45
+1） 时租：首2小时：$ 5 /半小时，2小时后：$ 7.5 /半小时，从0700-2300; $ 0.5 /半小时, 从2300-0700
+",http://resource.data.one.gov.hk/td/carpark/tdc33p1.jpg
+tdc32p5,Shui Pin Wai Estate,水邊圍邨,水边围邨,"Shui Pin Wai Road, Yuen Long, N. T.",新界元朗水邊圍邨,新界元朗水边围邨,22.44555283,114.0200043,Yuen Long,元朗區,元朗区,,OPEN,0.0,"Height Limit: 2.9
+","高度限制: 2.9
+","高度限制: 2.9
+",http://resource.data.one.gov.hk/td/carpark/tdc32p5.jpg
+tdc32p6,Mei Tin Estate,美田邨,美田邨,"Heung Fan Liu Street, Tai Wai, New Territories",新界大圍香粉寮街,新界大围香粉寮街,22.37602425,114.1718216,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 2.4
+","高度限制: 2.4
+","高度限制: 2.4
+",http://resource.data.one.gov.hk/td/carpark/tdc32p6.jpg
+tdc6p22,So Uk Estate Car Park (Phase 2),蘇屋邨停車場 (第二期),苏屋邨停车场 (第二期),"Cheung Sha Wan Cheung Fat Street, Kowloon",九龍長沙灣長發街,九龙长沙湾长发街,22.34108161,114.1565667,Sham Shui Po,深水埗區,深水埗区,2741 6968 / 5281 3274,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+24 hours operations ","高度限制: 2.4 (此高度限制適用於私家車/客貨車)
+24小時運作","高度限制: 2.4 (此高度限制适用于私家车/客货车)
+24小时运作",http://resource.data.one.gov.hk/td/carpark/tdc6p22.jpg
+tdc32p1,Wah Fu (I) Estate,華富(一)邨,华富(一)邨,"Wah Fu Road, Aberdeen, Hong Kong",香港瀑布灣華富道,香港瀑布湾华富道,22.24977875,114.1370239,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2
+","高度限制: 2
+","高度限制: 2
+",http://resource.data.one.gov.hk/td/carpark/tdc32p1.jpg
+tdc32p2,Wah Fu (II) Estate,華富(二)邨,华富(二)邨,"Wah Fu Road, Aberdeen, Hong Kong",香港瀑布灣華富道,香港瀑布湾华富道,22.25193596,114.137207,Southern,南區,南区,,OPEN,0.0,"Height Limit: 1.8
+","高度限制: 1.8
+","高度限制: 1.8
+",http://resource.data.one.gov.hk/td/carpark/tdc32p2.jpg
+tdc32p3,Shek Kip Mei Estate,石硤尾邨,石硖尾邨,"Nam Cheong Street, Shek Kip Mei, Kowloon",九龍石硤尾南昌街,九龙石硖尾南昌街,22.33252907,114.1658783,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 1.8
+","高度限制: 1.8
+","高度限制: 1.8
+",http://resource.data.one.gov.hk/td/carpark/tdc32p3.jpg
+tdc8p15,MTR Kam Sheung Road Station Car Park,港鐵錦上路站停車場,港铁锦上路站停车场,"Tung Wui Road, Kam Tin",錦田東匯路,锦田东汇路,22.434496832,114.064946615,Yuen Long,元朗區,元朗区,2475 5657,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc8p15.jpg
+tdc36p1,Cyberport Carpark 1 & 2,數碼港停車場(一)&(二),数码港停车场(一)&(二),"100 Cyberport Road,Cyberport Carpark 1 & 2,                Pok Fu Lam, HK",香港薄扶林數碼港道100號數碼港車場1及2,香港薄扶林数码港道100号数码港车场1及2,22.26207542,114.1301727,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2.3
+","高度限制: 2.3
+","高度限制: 2.3
+",http://resource.data.one.gov.hk/td/carpark/tdc36p1.jpg
+tdc36p2,Cyberport Carpark 3,數碼港3號停車場(三),数码港3号停车场(三),"100 Cyberport Road,Cyberport Carpark 3,                    Pok Fu Lam, HK",香港薄扶林數碼港道100號數碼港車場3,香港薄扶林数码港道100号数码港车场3,22.25959587,114.131691,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2
+","高度限制: 2
+","高度限制: 2
+",http://resource.data.one.gov.hk/td/carpark/tdc36p2.jpg
+tdc30p1,Nina Tower,如心廣場,如心广场,"No. 8 Yeung Uk Road,Tsuen Wan, N.T.",新界荃灣楊屋道8號,新界荃湾杨屋道8号,22.368516229,114.11347198,Tsuen Wan,荃灣區,荃湾区,2439 1618,OPEN,0.0,"Height Limit: 2.4 (Applicable to Private Cars/Vans)
+4.1(Applicable to Container Vehicles)
+Open 24 hours","高度限制: 2.4(此高度限制適用於私家車/客貨車)
+4.1(此高度限制適用於貨車)
+24小時開放","高度限制: 2.4(此高度限制适用于私家车/客货车)
+4.1(此高度限制适用于货车)
+24小时开放",http://resource.data.one.gov.hk/td/carpark/tdc30p1.jpg
+tdc31p1,Wong Tai Sin Public Transport Terminus Bus Car Par,黃大仙公共運輸總站上層的巴士停車場,黄大仙公共运输总站上层的巴士停车场,Wong Tai Sin Road,黃大仙道,黄大仙道,22.34329894,114.19512206,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 5
+","高度限制: 5
+","高度限制: 5
+",http://resource.data.one.gov.hk/td/carpark/tdc31p1.jpg
+tdc43p2,Castle Peak Beach,青山灣泳灘,青山湾泳滩,"Castle Peak Beach, Castle Peak Road-Castle Peak Bay, Tuen Mun",新界 屯門 青山公路-青山灣段 青山灣泳灘,新界 屯门 青山公路-青山湾段 青山湾泳滩,22.38051224,113.97942352,Tuen Mun,屯門區,屯门区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc43p2.jpg
+tdc14p3202,Ka Tin Car Park,嘉田停車場,嘉田停车场,"Ka Tin Court Car Park, 2-8 Hin Tin Street, Tai Wai,  Sha Tin, New Territories",新界沙田大圍顯田街2-8號嘉田苑停車場,新界沙田大围显田街2-8号嘉田苑停车场,22.36025238,114.1733704,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 2.15M
+","高度限制: 2.15M                                                                           
+","高度限制: 2.15M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p3202.jpg
+tdc14p3514,Tin King Car Park,田景停車場,田景停车场,"Tin King Estate Car Park, 10 Tin King Road, Tuen Mun,  New Territories",新界屯門田景路10號田景邨停車場,新界屯门田景路10号田景邨停车场,22.40660477,113.9650879,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 1.9M
+","高度限制: 1.9M                                                                           
+","高度限制: 1.9M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p3514.jpg
+tdc14p5718,Ning Fung Car Park,寧峰停車場,宁峰停车场,"Ning Fung Court Car Park, 99 Lei Muk Road, Kwai Chung,  New Territories",新界葵涌梨木道99號寧峰苑停車場,新界葵涌梨木道99号宁峰苑停车场,22.37213898,114.1383057,Kwai Tsing,葵青區,葵青区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M                                                                           
+","高度限制: 2.4M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p5718.jpg
+tdc14p5406,Wah Lai Car Park,華荔停車場,华荔停车场,"Wah Lai Estate Car Park, 282 Lai King Hill Road, Lai Chi Kok,  Kowloon",新界葵涌梨木道99九龍荔枝角荔景山路282號華荔邨停車場號寧峰苑停車場,新界葵涌梨木道99九龙荔枝角荔景山路282号华荔邨停车场号宁峰苑停车场,22.34250832,114.1377182,Kwai Tsing,葵青區,葵青区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M                                                                           
+","高度限制: 2.4M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p5406.jpg
+tdc14p5536,Wong Tai Sin SC Lower II Car Park,黃大仙二區有蓋停車場,黄大仙二区有盖停车场,"Temple Mall South, 103 Ching Tak Street, Wong Tai Sin,  Kowloon",九龍黃大仙正德街103號黃大仙中心 南館,九龙黄大仙正德街103号黄大仙中心 南馆,22.33973312,114.1919022,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p5536.jpg
+tdc14p7645,Fung Lai Car Park,鳳禮停車場,凤礼停车场,"Fung Lai Court Car Park, 8 Fung Lai Road, Diamond Hill,  Kowloon",九龍鑽石山鳳禮道8號鳳禮苑停車場,九龙钻石山凤礼道8号凤礼苑停车场,22.34441566,114.202179,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M
+","高度限制: 2.4M
+",http://resource.data.one.gov.hk/td/carpark/tdc14p7645.jpg
+tdc14p6643,Upper Ngau Tau Kok Ph1 Car Park,牛頭角上1期停車場,牛头角上1期停车场,"Upper Ngau Tau Kok Estate Car Park, 15 On Tak Road, Ngau Tau Kwok,  Kwun Tong, Kowloon",九龍觀塘牛頭角安德道15號牛頭角上邨停車場,九龙观塘牛头角安德道15号牛头角上邨停车场,22.31891823,114.2173309,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p6643.jpg
+tdc14p7628,Tsz Man Car Park,慈民停車場,慈民停车场,"Tsz Man Estate Car Park, 55 Tsz Wan Shan Road, Tsz Wan Shan,  Kowloon",九龍慈雲山慈雲山道55號慈民邨停車場,九龙慈云山慈云山道55号慈民邨停车场,22.34815979,114.2028351,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 2M
+","高度限制: 2M                                                                           
+","高度限制: 2M                                                                           
+",http://resource.data.one.gov.hk/td/carpark/tdc14p7628.jpg
+tdc14p7646,King Lai Car Park,瓊麗停車場,琼丽停车场,"King Lai Court Car Park, 36 - 38 Fung Shing Street, Wong Tai Sin,  Kowloon",九龍黃大仙豐盛街36-38號瓊麗苑停車場,九龙黄大仙丰盛街36-38号琼丽苑停车场,22.34140205,114.2106857,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 1.9M
+","高度限制: 1.9M
+","高度限制: 1.9M
+",http://resource.data.one.gov.hk/td/carpark/tdc14p7646.jpg
+tdc14p6609,Ching Wang Court Car Park,青宏停車場,青宏停车场,"Ching Wang Court Car Park, 1 Nga Ying Chau Street, Tsing Yi,  New Territories",新界青衣牙鷹洲街1號青宏苑停車場,新界青衣牙鹰洲街1号青宏苑停车场,22.36187553,114.1047516,Kwai Tsing,葵青區,葵青区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M
+","高度限制: 2.4M
+",http://resource.data.one.gov.hk/td/carpark/tdc14p6609.jpg
+tdc14p4336,Hong Keung Car Park,康強停車場,康强停车场,"Hong Keung Court Car Park, 23 Heng Lam Street, Wang Tau Hom,  Kowloon",九龍橫頭磡杏林街23號康強苑停車場,九龙横头磡杏林街23号康强苑停车场,22.33724403,114.1900101,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 2.4M
+","高度限制: 2.4M
+","高度限制: 2.4M
+",http://resource.data.one.gov.hk/td/carpark/tdc14p4336.jpg
+tdc14p6713,Kwai Hong Car Park,葵康停車場,葵康停车场,"Kwai Hong Court Car Park, 150 Tai Wo Hau Road, Kwai Chung,  New Territories",新界葵涌大窩口道150號葵康苑停車場,新界葵涌大窝口道150号葵康苑停车场,22.36372375,114.1304474,Kwai Tsing,葵青區,葵青区,,OPEN,0.0,"Height Limit: 1.8M
+","高度限制: 1.8M
+","高度限制: 1.8M
+",http://resource.data.one.gov.hk/td/carpark/tdc14p6713.jpg
+tdc25p35,Technology Park,達利廣場,达利广场,"18 On Lai Street, Shatin, New Territories",新界沙田安麗街18號,新界沙田安丽街18号,22.3886776,114.20758057,Sha Tin,沙田區,沙田区,26465386,OPEN,0.0,"Height Limit: 4.2(Applicable to Container Vehicles)
+Operating Hours
+Mon - Sat:  0700 - 2200
+Sun & PH:  Closed","高度限制: 4.2(此高度限制適用於貨櫃車)
+開放時間
+星期一至六:  0700 - 2200
+星期日及公眾假期:  不開放","高度限制: 4.2(此高度限制适用于货柜车)
+开放时间
+星期一至六：0700-2200
+星期日及公众假期：不开放",http://resource.data.one.gov.hk/td/carpark/tdc25p35.jpg
+tdc25p36,Technology Plaza,科技中心,科技中心,"29-35 Sha Tsui Road, Tsuen Wan, New Territories",新界荃灣沙咀道29 – 35號,新界荃湾沙咀道29 – 35号,22.37427726,114.10905315,Tsuen Wan,荃灣區,荃湾区,24171280,OPEN,0.0,"Height Limit: 2.2 (Applicable to Private Cars/Vans)
+4 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sat:  0700 - 2200
+Sun & PH:  0800 - 2000","高度限制: 2.2 (此高度限制適用於私家車/客貨車)
+4 (此高度限制適用於貨櫃車)
+開放時間
+星期一至六:  0700 - 2200
+星期日及公眾假期:  0800 - 2000","高度限制: 2.2 (此高度限制适用于私家车/客货车)
+4 (此高度限制适用于货柜车)
+开放时间
+星期一至六: 0700 - 2200
+星期日及公众假期: 0800 - 2000",http://resource.data.one.gov.hk/td/carpark/tdc25p36.jpg
+tdc25p37,Sunshine Plaza,陽光廣場,阳光广场,"17 Sung On Street, Hung Hom, Kowloon",九龍紅磡崇安街17號,九龙红磡崇安街17号,22.31189919,114.18917084,Kowloon City,九龍城區,九龙城区,23561309,OPEN,0.0,"Height Limit: 2.26 (Applicable to Private Cars/Vans)
+3.75 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制: 2.26 (此高度限制適用於私家車/客貨車)
+3.75 (此高度限制適用於貨櫃車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制: 2.26 (此高度限制适用于私家车/客货车)
+3.75 (此高度限制适用于货柜车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p37.jpg
+tdc25p38,Jumbo Court,珍寶閣,珍宝阁,"3 Welfare Road, Aberdeen, Hong Kong",香港香港仔惠福道3號,香港香港仔惠福道3号,22.24601364,114.16464233,Southern,南區,南区,26960530,OPEN,0.0,"Height Limit: 
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制: 
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制: 
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p38.jpg
+tdc25p39,Sunley Centre,崇利中心,崇利中心,"9 Wing Yin Street, Tsuen Wan, New Territories",新界荃灣永賢街9號,新界荃湾永贤街9号,22.36162715,114.11609452,Tsuen Wan,荃灣區,荃湾区,24062976,OPEN,0.0,"Height Limit: 4.7 (Applicable to Private Cars/Vans/Container Vehicles)
+Operating Hours
+Mon - Sat:  0700 - 1900
+Sun & PH:  Closed","高度限制: 4.7 (此高度限制適用於私家車/客貨車/貨櫃車)
+開放時間
+星期一至六:  0700 - 1900
+星期日及公眾假期:  不開放","高度限制: 4.7 (此高度限制适用于私家车/客货车/货柜车)
+开放时间
+星期一至六: 0700 - 1900
+星期日及公众假期: 不开放",http://resource.data.one.gov.hk/td/carpark/tdc25p39.jpg
+tdc25p40,Chai Wan Industrial City Phase I,柴灣工業城一期,柴湾工业城一期,"60 Wing Tai Road, Chai Wan, Hong Kong",香港柴灣永泰道60號,香港柴湾永泰道60号,22.2678318,114.24260712,Eastern,東區,东区,28972906,OPEN,0.0,"Height Limit: 3.8 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制:  3.8 (此高度限制適用於貨櫃車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制:  3.8 (此高度限制适用于货柜车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p40.jpg
+tdc25p41,Chai Wan Industrial City Phase II,柴灣工業城二期,柴湾工业城二期,"70 Wing Tai Road, Chai Wan, Hong Kong",香港柴灣永泰道70號,香港柴湾永泰道70号,22.26823807,114.24238586,Eastern,東區,东区,25574849,OPEN,0.0,"Height Limit: 3.8 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制:  3.8 (此高度限制適用於貨櫃車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制:  3.8 (此高度限制适用于货柜车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p41.jpg
+tdc25p42,Cornell Centre,港利中心,港利中心,"50 Wing Tai Road, Chai Wan, Hong Kong",香港柴灣永泰道50號,香港柴湾永泰道50号,22.26745987,114.24284363,Eastern,東區,东区,25562898,OPEN,0.0,"Height Limit: 4.42 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制:  4.42 (此高度限制適用於貨櫃車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制:  4.42 (此高度限制适用于货柜车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p42.jpg
+tdc49p1,Citygate North Carpark,東薈城北面停車場,东薈城北面停车场,"39 Man Tung Road, Tung Chung",東涌文東路39號,东涌文东路39号,22.29098081,113.9433026,Islands,離島區,离岛区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc49p1.jpg
+tdc49p2,Citygate South S2 Carpark,東薈城南面S2停車場,东荟城南面S2停车场,"20 Tat Tung Road, Tung Chung",東涌達東路20號,东涌达东路20号,22.28994701,113.94115843,Islands,離島區,离岛区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc49p2.jpg
+tdstt2p2,Value Parking Shan Mei Street,威利停車場山尾街,威利停车场山尾街,"Junction of Shan Mei Street & Sui Wo Road, Fo Tan",新界沙田火炭山尾街與穗禾路交界處,新界沙田火炭山尾街与穗禾路交界处,22.397891278542,114.19250685444,Sha Tin,沙田區,沙田区,28062235,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt2p2.jpg
+tdstt3p1,Skye Parking Ho Tin Street,綽德停車場河田街,绰德停车场河田街," Ho Tin Street, Area 9, Tuen Mun, N.T.",新界屯門第 9 區河田街,新界屯门第 9 区河田街,22.3983,113.9707,Tuen Mun,屯門區,屯门区,,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt3p1.jpg
+tdstt5p1,Skye Parking Ma Wo Road,綽德停車場馬窩路,绰德停车场马窝路,"Ma Wo Road, Area 6, Tai Po, N.T.",新界大埔第 6 區馬窩路,新界大埔第 6 区马窝路,22.4421,114.1635,Tai Po,大埔區,大埔区,,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt5p1.jpg
+tdstt7p1,Treasure Top Carpark (Tai Po Yee Nga Court),寶淘停車場(大埔怡雅苑),宝淘停车场(大埔怡雅苑),"Adjacent to Yee Nga Court , Area 17, Tai Po, NT",新界大埔第 17 區毗鄰怡雅苑,新界大埔第 17 区毗邻怡雅苑,22.4547138,114.1725464,Tai Po,大埔區,大埔区,62237535,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt7p1.jpg
+tdstt4p1,Ngau Pei Sha Street,牛皮沙街,牛皮沙街,"Ngau Pei Sha Street, Shatin, N.T.",新界沙田牛皮沙街,新界沙田牛皮沙街,22.38232836,114.2058283,Sha Tin,沙田區,沙田区,27081737,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt4p1.jpg
+tdstt10,Sha Tau Kok Road,沙頭角道,沙头角道,"Sha Tau Kok Road, Fanling, N.T.",新界粉嶺沙頭角道,新界粉岭沙头角道,22.49414982,114.139612634,North,北區,北区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt10.jpg
+tdstt11,On Chun Street,鞍駿街,鞍骏街,"On Chun Street, Ma On Shan, N.T.",新界馬鞍山鞍駿街,新界马鞍山鞍骏街,22.42554166,114.2267528,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt11.jpg
+tdstt9p1,Shing Hong Lane,盛康里,盛康里,"Shing Hong Lane Open Space Carpark, Heng Fa Chuen",杏花邨盛康里露天停車場,杏花邨盛康里露天停车场,22.27917047,114.23856157,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt9p1.jpg
+tdstt15,San On Street,新安街,新安街,"San On Street, Area 12, Tuen Mun, New Territories",新界屯門第 12 區新安街,新界屯门第 12 区新安街,22.3934536,113.97033691,Tuen Mun,屯門區,屯门区,(852) 2463 1761,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt15.jpg
+tdstt12,Ping Ha Road,屏廈路,屏厦路,"Ping Ha Road, Ha Tsuen, Yuen Long, New Territories",元朗廈村屏廈路停車場,元朗厦村屏厦路停车场,22.445961651,113.996367124,Yuen Long,元朗區,元朗区,,OPEN,0.0,"Height Limit: 3.8
+","高度限制: 3.8
+","高度限制: 3.8
+",http://resource.data.one.gov.hk/td/carpark/tdstt12.jpg
+tdstt17,Hoi Wah Road,海華路,海华路,"Hoi Wah Road, Tuen Mun",屯門海華路,屯门海华路,22.37989616,113.97042084,Tuen Mun,屯門區,屯门区,28303845,OPEN,0.0,"Height Limit: 
+24 hrs","高度限制: 
+24小時","高度限制: 
+24小时",http://resource.data.one.gov.hk/td/carpark/tdstt17.jpg
+tdstt16,Tsing Yin Street,青賢街,青贤街,"Tsing Yin Street, Area 10, Tuen Mun, New Territories", 新界屯門第10區青賢街, 新界屯门第10区青贤街,22.39818382,113.97418213,Tuen Mun,屯門區,屯门区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt16.jpg
+tdstt34,HEI TUNG STREET,喜東街,喜东街,HEI TUNG STREET TUNG CHUNG LANTAU ISLAND,東涌喜東街,东涌喜东街,22.29433922,113.95276086,,,,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt34.jpg
+tdstt32,Junction of Tai Chung Kiu Road and On Sum Street,大涌橋路與安心街交界處,大涌桥路与安心街交界处,"Junction of Tai Chung Kiu Road and On Sum Street, Sha Tin, New Territories",新界沙田大涌橋路與安心街交界處,新界沙田大涌桥路与安心街交界处,22.3928544,114.208165,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt32.jpg
+tdstt23,On Pong Road,安邦路,安邦路,"On Pong Road, TAI PO",大埔 安邦路,大埔 安邦路,22.453491947,114.171640876,Tai Po,大埔區,大埔区,28062235,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt23.jpg
+tdstt24,Wo Hing Road,和興路,和兴路,"WO HING ROAD ,FANLING,NEW TERRITORIES",和興路,和兴路,22.485867345,114.146615066,North,北區,北区,65881723,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt24.jpg
+tdstt22,Sheung Fung Street,雙鳳街,双凤街,"SHEUNG FUNG STREET, WONG TAI SIN",黃大仙 雙鳳街,黄大仙 双凤街,22.34658241,114.1974411,Wong Tai Sin,黃大仙區,黄大仙区,,OPEN,0.0,"Height Limit: 3.5 (Applicable to Private Cars/Vans/Container Vehicles)
+","高度限制: 3.5 (此高度限制適用於私家車/客貨車/貨櫃車)
+","高度限制: 3.5 (此高度限制适用于私家车/客货车/货柜车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt22.jpg
+tdstt25,Wing Lai Road,穎禮路,颖礼路,"WING LAI ROAD, SAI KUNG",西貢 穎禮路,西贡 颖礼路,22.32606316,114.2492065,Sai Kung,西貢區,西贡区,28892867,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt25.jpg
+tdstt26,Castle Peak Road - Castle Peak Bay,青山公路 – 青山灣段,青山公路 – 青山湾段,"Castle Peak Road – Castle Peak Bay, Area 41, Tuen Mun",新界屯門第 41 區青山公路–青山灣段,新界屯门第 41 区青山公路–青山湾段,22.38314629,113.97858429,Tuen Mun,屯門區,屯门区,22119800,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt26.jpg
+tdstt27,Sam Shing Street 1,三聖街 1,三圣街 1,"Sam Shing Street, Area 27, Tuen Mun, N. T.",屯門三聖街,屯门三圣街,22.38008308,113.97774506,Tuen Mun,屯門區,屯门区,93090598,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt27.jpg
+tdstt28,Sam Shing Street 4,三聖街 4,三圣街 4,"Sam Shing Street, Area 27, Tuen Mun, N. T.",屯門三聖街,屯门三圣街,22.38125801,113.97698212,Tuen Mun,屯門區,屯门区,93090598,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt28.jpg
+tdstt29,Wan Po Road,環保大道,环保大道,"Area 85, Wan Po Road, Tseung Kwan O, N. T.",將軍澳環保大道85區,将军澳环保大道85区,22.29268456,114.27423859,Sai Kung,西貢區,西贡区,28062235,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt29.jpg
+tdstt30,Hoi Ting Road,海庭道,海庭道,"Hoi Ting Road, Yau Ma Tei, Kowloon",九龍油麻地海庭道,九龙油麻地海庭道,22.31401294,114.16276657,Yau Tsim Mong,油尖旺區,油尖旺区,64654389,OPEN,0.0,"Height Limit: 
+$8 per 30 min","高度限制: 
+時租每半小時$8","高度限制: 
+时租每半小时$8",http://resource.data.one.gov.hk/td/carpark/tdstt30.jpg
+tdstt31,Choi Hing Road,彩興路,彩兴路,"Choi Hing Road, Jordan Valley, Kowloon",九龍佐敦谷彩興路,九龙佐敦谷彩兴路,22.33160342,114.2170853,Kwun Tong,觀塘區,观塘区,64654389,OPEN,0.0,"Height Limit: 
+hourly $10","高度限制: 
+時租 $10","高度限制: 
+时租 $10",http://resource.data.one.gov.hk/td/carpark/tdstt31.jpg
+tdstt40,To Lok Road,陶樂路,陶乐路,"To Lok Road, Area 16, Tseung Kwan O, NT",將軍澳第 16 區陶樂路,将军澳第 16 区陶乐路,22.32197762,114.25453186,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt40.jpg
+tdstt39,"Junction of Luen Fat Street, Luen Fu Street and Lu",聯發街、聯富街與聯益街交界處,联发街、联富街与联益街交界处,"J/O Luen Fat Street, Luen Fu Street and Luen Yick Street, Luen Wo Hui, Fanling, NT",粉嶺聯和墟聯發街、聯富街與聯益街交界處,粉岭联和墟联发街、联富街与联益街交界处,22.49797821,114.14189911,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt39.jpg
+tdstt38,Man Lai Road,文禮路,文礼路,"Man Lai Road, Sha Tin",沙田文禮路,沙田文礼路,22.37662315,114.18343353,Sha Tin,沙田區,沙田区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt38.jpg
+tdstt37,Mei Fuk Street,美福街,美福街,"Mei Fuk Street, Sai Kung",西貢美福街,西贡美福街,22.38491821,114.2730331,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt37.jpg
+tdstt42,"Po Lam Road North, Area 10",第 10 區寶琳北路,第 10 区宝琳北路,"Po Lam Road North, Area 10, Tseung Kwan O, NT",新界將軍澳第 10 區寶琳北路,新界将军澳第 10 区宝琳北路,22.32761765,114.25447083,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt42.jpg
+tdstt43,Yuen Ching Road,元政路,元政路,"Yuen Ching Road, Shap Pat Heung, Yuen Long, New Territories",新界元朗十八鄉元政路,新界元朗十八乡元政路,22.44353676,114.03808594,Yuen Long,元朗區,元朗区,36115836,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt43.jpg
+tdstt35,Cape Road,環角道,环角道,"Next to No. 33 Cape Road, Chung Hom Kok, Hong Kong",香港舂坎角環角道33號旁,香港舂坎角环角道33号旁,22.21948242,114.20661163,,,,93090598,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt35.jpg
+tdstt21,Tuen Yee Street,屯義街,屯义街,"Tuen Yee Street, Area 16, Tuen Mun, New Territories",新界屯門第 16 區屯義街,新界屯门第 16 区屯义街,22.38224602,113.9687347,Tuen Mun,屯門區,屯门区,96530394,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt21.jpg
+tdstt36,Tuen Yee Street,屯義街,屯义街,"Tuen Yee Street, Area 16, Tuen Mun, New Territories",新界屯門第 16 區屯義街,新界屯门第 16 区屯义街,22.38330847,113.968822,Tuen Mun,屯門區,屯门区,93090598,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt36.jpg
+tdstt33,Junction of Oi Yee Street and Hing Man Street,愛義街與興民街交界處,爱义街与兴民街交界处,"Junction of Oi Yee Street and Hing Man Street, Shau Kei Wan",香港筲箕灣愛義街與興民街交界處,香港筲箕湾爱义街与兴民街交界处,22.28222847,114.2232132,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt33.jpg
+tdstt41,Mei Yu Street,美裕街,美裕街,"Mei Yu Street, Sai Kung",西貢美裕街,西贡美裕街,22.38482666,114.2720108,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdstt41.jpg
+tdstt46,Junction of Hoi Shing Road and Hoi Kok Street,海盛路與海角街交界處,海盛路与海角街交界处,"At Junction of Hoi Shing Road and Hoi Kok Street, Tsuen Wan",荃灣海盛路與海角街交界處,荃湾海盛路与海角街交界处,22.37155342,114.10810852,Tsuen Wan,荃灣區,荃湾区,5372 6225,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt46.jpg
+tdstt44,Hong Kin Road,康健路,康健路,"Hong Kin Road, Sai Kung",西貢康健路,西贡康健路,22.37711143,114.27326965,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdstt44.jpg
+tdstt19,Junction of Hoi Wang Road and Lai Cheung Road,海泓道麗翔道交界,海泓道丽翔道交界,Junction of Hoi Wang Road and Lai Cheung Road,海泓道麗翔道交界,海泓道丽翔道交界,22.31217384,114.16407776,Yau Tsim Mong,油尖旺區,油尖旺区,,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt19.jpg
+tdc5p4,Panda Place,悅來坊商場,悦来坊商场,"3 Tsuen Wah Street, Tsuen Wan, Hong Kong",新界荃灣荃華街3號,新界荃湾荃华街3号,22.36891824,114.12042744,Tsuen Wan,荃灣區,荃湾区,3114 0000,OPEN,0.0,"Height Limit: 1.9
+<u>Provision of Electric Charging Services (Total: 20)</u><br>
+Super Charger for Tesla : 4 nos. (7/F)<br>
+EV Charging Station: 6 nos.<br>
+(7/F available for charging and hourly parking)","高度限制: 1.9
+<u>設有電動車充電服務 (共20個）</u><br>
+Tesla專用快速充電器 : 4個 (7樓)<br>
+電動車充站：共 6 個<br>
+(7 樓，車位可供充電及時租停泊 )","高度限制: 1.9
+<u>设有电动车充电服务 (共20个）</u><br>
+Tesla专用快速充电器 : 4个 (7楼)<br>
+电动车充电站：共6个<br>
+(7楼，车位可供充电及时租停泊)",http://resource.data.one.gov.hk/td/carpark/tdc5p4.jpg
+tdc49p4,Citygate South S1 Carpark,東薈城南面S1停車場,东薈城南面S1停车场,"18 Tat Tung Road, Tung Chung",東涌達東路18號,东涌达东路18号,22.29026581,113.94053167,Islands,離島區,离岛区,,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc49p4.jpg
+tdc70p1,Sha Tin Sports Ground and Yuen Wo Playground,沙田運動場及源禾遊樂場,沙田运动场及源禾游乐场,"18 Yuen Wo Road, Sha Tin, N.T.",沙田源禾路18號,沙田源禾路18号,22.38697624,114.19628143,,,,53039347,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc70p1.jpg
+tdc66p1,Sha Tin Jockey Club Swimming Pool and Yuen Wo Road,沙田賽馬會游泳池及源禾路體育館,沙田赛马会游泳池及源禾路体育馆,"10 Yuen Wo Road, Sha Tin, N.T.",沙田源禾路10號,沙田源禾路10号,22.38357925,114.19377136,,,,53039347,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc66p1.jpg
+tdc65p2,Yuen Long Swimming Pool,元朗游泳池,元朗游泳池,"10 Tai Yuk Road, Yuen Long, N.T.",元朗體育路10號,元朗体育路10号,22.44135475,114.02108765,Yuen Long,元朗區,元朗区,9850 0267 / 2912 3700 / 2912 3719 / 2912 3713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc65p2.jpg
+tdc65p4,Tin Shui Wai Swimming Pool,天水圍泳池,天水围泳池,"1 Tin Pak Road, Tin Shui Wai, N.T.",天水圍天柏路1號,天水围天柏路1号,22.45504189,114.0065155,Yuen Long,元朗區,元朗区,9549 9947 / 2912 3700 / 2912 3719 / 2912 3713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc65p4.jpg
+tdc65p3,Tin Shui Wai Sports Ground,天水圍運動場,天水围运动场,"2 Tin Shui Rd, Tin Shui Wai, N.T.",天水圍天瑞路2號,天水围天瑞路2号,22.45455742,114.00469208,Yuen Long,元朗區,元朗区,9549 9869  / 2912 3700 / 2912 3719 / 2912 3713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc65p3.jpg
+tdc65p1,Fung Kam Street Sports Centre,鳳琴街體育館,凤琴街体育馆,"20 Fung Yau Street North, Yuen Long",元朗鳳攸北街20號,元朗凤攸北街20号,22.44305229,114.03305817,Yuen Long,元朗區,元朗区,9549 8978 / 2912 3700 / 2912 3719 / 2912 3713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc65p1.jpg
+tdc65p5,Tin Yip Road Park,天業路公園,天业路公园,"Tin Yip Road, Tin Shui Wai, N.T.",新界天水圍天業路,新界天水围天业路,22.46386909,114.00669098,Yuen Long,元朗區,元朗区,9549 9836 / 2912 3700 / 2912 3719 / 2912 3713,OPEN,0.0,"Height Limit: 
+","高度限制: 
+","高度限制: 
+",http://resource.data.one.gov.hk/td/carpark/tdc65p5.jpg
+tdc62p1,Yuen Chau Kok Complex,圓州角綜合大樓,圆州角综合大楼,"35 Ngan Shing Street, Sha Tin",沙田銀城街35號,沙田银城街35号,22.37970924,114.2045517,,,,21579585,OPEN,0.0,"Height Limit: 2.36 (Applicable to Private Cars/Vans)
+","高度限制: 2.36 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.36 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdc62p1.jpg
+tdc58p5,Ap Lei Chau Waterfront Promenade,鴨脷洲海濱長廊,鸭脷洲海滨长廊,"Ping Lan Street, Ap Lei Chau",鴨脷洲平瀾街,鸭脷洲平澜街,22.24489021,114.15533447,Southern,南區,南区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc58p5.jpg
+tdc53p1,Jordan Valley Park,佐敦谷公園,佐敦谷公园,"No. 71, New Clear Water Bay Road, Kwun Tong, Kowloon",九龍觀塘區四順新清水灣道71號,九龙观塘区四顺新清水湾道71号,22.33004761,114.22187042,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc53p1.jpg
+tdc67p2,Wo Hing Sports Centre,和興體育館,和兴体育馆,"No.8 Wo Ming Lane, Fanling",粉嶺和鳴里8號地下,粉岭和鸣里8号地下,22.48474503,114.14312744,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc67p2.jpg
+tdc69p2,Po Wing Road Sports Centre,保榮路體育館,保荣路体育馆,"19 Pak Wo Road, Sheung Shui",上水百和路19號,上水百和路19号,22.49693108,114.1283493,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc69p2.jpg
+tdc69p3,Sheung Shui Swimming Pool,上水游泳池,上水游泳池,"38 Tin Ping Road, Sheung Shui",上水天平路38號,上水天平路38号,22.50596809,114.13158417,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc69p3.jpg
+tdc67p1,North District Sports Ground,北區運動場,北区运动场,"26 Tin Ping Road, Sheung Shui",新界上水天平路26號北區運動場,新界上水天平路26号北区运动场,22.50621223,114.13047028,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc67p1.jpg
+tdc69p1,Fanling Swimming Pool,粉嶺游泳池,粉岭游泳池,"73 San Wan Road, Fanling",粉嶺新運路73號,粉岭新运路73号,22.49478149,114.1364212,North,北區,北区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc69p1.jpg
+tdc53p2,Jordan Valley Swimming Pool,佐敦谷游泳池,佐敦谷游泳池,"6 Choi Ha Rd, Ngau Tau Kok","6 彩霞道, 牛頭角","6 彩霞道, 牛头角",22.32359314,114.21828461,Kwun Tong,觀塘區,观塘区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc53p2.jpg
+tdc58p3,Shek Kip Mei Park,石硤尾公園,石硖尾公园,"270 Nam Cheong Street, Sham Shui Po",深水埗南昌街270號,深水埗南昌街270号,22.33865166,114.16990662,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc58p3.jpg
+tdc64p1,Ho Man Tin Park,何文田公園,何文田公园,"Carpark, 1 Chung Yee Street, Ho Man Tin, KL",忠義街1號何文田體育館停車場,忠义街1号何文田体育馆停车场,22.31189537,114.18120575,Kowloon City,九龍城區,九龙城区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc64p1.jpg
+tdc58p4,Cornwall Street Park,歌和老街公園,歌和老街公园,"17 Cornwall Street, Kowloon Tong",九龍塘歌和老街17號,九龙塘歌和老街17号,22.33918571,114.17272186,Sham Shui Po,深水埗區,深水埗区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc58p4.jpg
+tdc63p3,Siu Lek Yuen Road Playground,小瀝源路遊樂場,小沥源路游乐场,"No. 1 Siu Lek Yuen Road, Sha Tin",沙田小瀝源路1號,沙田小沥源路1号,22.38702774,114.2060318,,,,28062235,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc63p3.jpg
+tdc63p2,Ma On Shan Swimming Pool,馬鞍山游泳池,马鞍山游泳池,"33 On Chun Street, Ma On Shan, Sha Tin",馬鞍山鞍駿街33號,马鞍山鞍骏街33号,22.42710876,114.22887421,Sha Tin,沙田區,沙田区,28062235,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc63p2.jpg
+tdc63p1,Ma On Shan Sports Ground,馬鞍山運動場,马鞍山运动场,"No. 1 Hang Hong Street, Ma On Shan, Sha Tin",馬鞍山恆康街1號,马鞍山恒康街1号,22.42095757,114.22808838,Sha Tin,沙田區,沙田区,28062235,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc63p1.jpg
+tdc55p1,North Point Government Offices,北角政府合署,北角政府合署,"No. 333 Java Road, North Point, Hong Kong",香港北角渣華道333號,香港北角渣华道333号,22.29232597,114.20836639,Eastern,東區,东区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc55p1.jpg
+tdc59p1,Yuen Long District Office Building,元朗民政事務處大廈,元朗民政事务处大厦,"269 Castle Peak Road, Yuen Long, New Territories",新界元朗青山公路269號,新界元朗青山公路269号,22.44510841,114.02271271,Yuen Long,元朗區,元朗区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc59p1.jpg
+tdc72p1,Lai Yiu Estate,麗瑤邨,丽瑶邨,"Lai Yiu Estate, Kwai Chung",葵涌麗瑤邨,葵涌丽瑶邨,22.35367393,114.13179016,Kwai Tsing,葵青區,葵青区,64615568,OPEN,0.0,"Height Limit: 1.9
+","高度限制: 1.9
+","高度限制: 1.9
+",http://resource.data.one.gov.hk/td/carpark/tdc72p1.jpg
+tdc8p16,The LOHAS,The LOHAS康城,The LOHAS康城,"1 LOHAS PARK ROAD, TSEUNG KWAN O, N.T. HONG KONG",香港新界將軍澳康城路1號,香港新界将军澳康城路1号,22.293984977,114.270114,Sai Kung,西貢區,西贡区,,OPEN,0.0,"Height Limit: 2.45
+","高度限制: 2.45
+","高度限制: 2.45
+",http://resource.data.one.gov.hk/td/carpark/tdc8p16.jpg
+tdc21p1,Peak Galleria,山頂廣場,山顶广场,118 Peak Road,山頂道7118號,山顶道7118号,22.27025414,114.14987946,Central & Western,中西區,中西区,2849 4113,OPEN,0.0,"Height Limit: 1.9 (Applicable to Private Cars/Vans)
+3.75 (Applicable to Container Vehicles)
+","高度限制: 1.9 (此高度限制適用於私家車/客貨車) 
+3.75 (此高度限制適用於貨櫃車) )
+","高度限制: 1.9 (此高度限制适用于私家车/客货车) 
+3.75 (此高度限制适用于货柜车) )
+",http://resource.data.one.gov.hk/td/carpark/tdc21p1.jpg
+tdc52p1,WKCD Zone F Car Park,西九文化區F區停車場,西九文化区F区停车场,"West Kowloon Cultural District, No.38 Museum Drive, Kowloon, Hong Kong",香港九龍西九文化區博物館路38號,香港九龙西九文化区博物馆路38号,22.30150392,114.15849959,Yau Tsim Mong,油尖旺區,油尖旺区,52820288,OPEN,0.0,"Height Limit: 2.1 (Applicable to Private Cars/Vans)
+24 hours  (Entry time: 8:00am – 10:00pm)","高度限制: 2.1 (此高度限制適用於私家車/客貨車)
+24小時 （入閘時間：上午8時至晚上10時）","高度限制: 2.1 (此高度限制适用于私家车/客货车)
+24小时 （入闸时间：上午8时至晚上10时）",http://resource.data.one.gov.hk/td/carpark/tdc52p1.jpg
+tdstt47,Junction of Fat Kwong Street & Sheung Shing Street,佛光街常盛街交界,佛光街常盛街交界,"at the junction of Fat Kwong Street & Sheung Shing Street, Ho Man Tin",何文田佛光街常盛街交界,何文田佛光街常盛街交界,22.31742246,114.1805973,Kowloon City,九龍城區,九龙城区,28062235,OPEN,0.0,"Height Limit: 2.45 (Applicable to Private Cars/Vans)
+","高度限制: 2.45 (此高度限制適用於私家車/客貨車)
+","高度限制: 2.45 (此高度限制适用于私家车/客货车)
+",http://resource.data.one.gov.hk/td/carpark/tdstt47.jpg
+tdc25p43,Tuen Mun Town Plaza Phase 2,屯門市廣場第二期,屯门市广场第二期,"3 Tuen Lung Street, Tuen Mun, New Territories",新界屯門屯隆街3號,新界屯门屯隆街3号,22.393878121,113.976451912,Tuen Mun,屯門區,屯门区,24409757,OPEN,0.0,"Height Limit: 1.8 (Applicable to Private Cars/Vans) 
+3 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制: 1.8 (此高度限制適用於私家車/客貨車)
+3 (此高度限制適用於貨車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制: 1.8 (此高度限制适用于私家车/客货车)
+3 (此高度限制适用于货车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p43.jpg
+tdc25p44,Hewlett Centre,豐利中心,丰利中心,"54 Hoi Yuen Road, Kwun Tong, Kowloon",九龍觀塘開源道54號,九龙观塘开源道54号,22.309622053,114.224255594,Kwun Tong,觀塘區,观塘区,31051695,OPEN,0.0,"Height Limit: 3.5 (Applicable to Private Cars/Vans)
+4 (Applicable to Container Vehicles)
+Operating Hours
+Mon - Sun & PH: 0000 - 2400","高度限制: 3.5 (此高度限制適用於私家車/客貨車)
+4 (此高度限制適用於貨櫃車)
+開放時間
+星期一至日及公眾假期: 0000 - 2400","高度限制: 3.5 (此高度限制适用于私家车/客货车)
+4 (此高度限制适用于货柜车)
+开放时间
+星期一至日及公众假期: 0000 - 2400",http://resource.data.one.gov.hk/td/carpark/tdc25p44.jpg
