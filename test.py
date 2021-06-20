@@ -97,5 +97,5 @@ try:
     st.dataframe(prediction(eval(district),day,hour,minute))
     # st.write("Predicted Availibility: ",math.floor(loaded_model.predict(np.array([[day, hour, minute]]))[0]))
 except Exception:
-    #  st.write("Please enter a valid date in yyyy-mm-dd HH:MM")
-    traceback.print_exc()
+      st.write("Please enter a valid date in yyyy-mm-dd HH:MM")
+    
