@@ -3,7 +3,6 @@ import numpy as np
 import streamlit as st
 df = pd.read_csv("Lilith.csv")
 import joblib
-import traceback
 import datetime
 import math
 from PIL import Image
