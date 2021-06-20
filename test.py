@@ -5,7 +5,7 @@ df = pd.read_csv("Lilith.csv")
 import joblib
 import datetime
 import math
-from Pillow import Image
+from PIL import Image
 filename = 'polyreg_model.sav'
 
 loaded_model = joblib.load(filename)
