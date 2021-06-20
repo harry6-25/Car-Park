@@ -3,5 +3,4 @@ numpy
 streamlit
 joblib
 datetime
-math
 PIL
