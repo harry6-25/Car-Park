@@ -66,7 +66,7 @@ def prediction(parklist,day,hour,minute):
         result.append(eval((f"{park}model")).predict(np.array([[day,hour,minute]]))[0])
     result_df = pd.DataFrame({"park_id":eval(district),"Vacancies":result})
     result_df['Vacancies'] = result_df['Vacancies'].apply(math.floor)
-    result_df = result_df.merge(info, how='left', on='park_id')
+    result_df = pd.merge(result_df,info[['park_id','name_en','displayAddress_en']], how='left', on='park_id')
     result_df.set_index("park_id",inplace=True)
     result_df.sort_values(by=['Vacancies'],inplace=True,ascending=False)
     return result_df
