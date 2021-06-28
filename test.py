@@ -87,7 +87,7 @@ district = st.selectbox(
    ('Eastern','Kowloon City','Sai Kung','Kwai Tsing','Yau Tsim Mong','Tuen Mun','Wong Tai Sin','Southern','Islands','Yuen Long','Wan Chai',
 'Sham Shui Po','Central Western','Sha Tin','Tai Po','Kwun Tong','Tsuen Wan','North'))
 
-user_input_time = st.text_input("Please input time you want to predict.","2021-07-10 00:00")
+user_input_time = st.text_input("Please input time you want to predict.","2021-03-10 00:00")
 
 try:
     info = pd.read_csv("car_park_district.csv")
