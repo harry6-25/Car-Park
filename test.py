@@ -67,9 +67,11 @@ def prediction(parklist,day,hour,minute):
         result.append(eval((f"{park}model")).predict(np.array([[day,hour,minute]]))[0])
     result_df = pd.DataFrame({"park_id":eval(district),"Vacancies":result})
     result_df['Vacancies'] = result_df['Vacancies'].apply(math.floor)
+    result_df = result_df.style.apply(lambda x:["background: red" if v > 5 else "" for v in x])
     result_df = pd.merge(result_df,info[['park_id','name_en','displayAddress_en']], how='left', on='park_id')
     result_df.set_index("park_id",inplace=True)
     result_df.sort_values(by=['Vacancies'],inplace=True,ascending=False)
+    
     return result_df
 
 for park in park_list:
@@ -85,7 +87,7 @@ district = st.selectbox(
    ('Eastern','Kowloon City','Sai Kung','Kwai Tsing','Yau Tsim Mong','Tuen Mun','Wong Tai Sin','Southern','Islands','Yuen Long','Wan Chai',
 'Sham Shui Po','Central Western','Sha Tin','Tai Po','Kwun Tong','Tsuen Wan','North'))
 
-user_input_time = st.text_input("Please input time you want to predict.","2021-03-10 00:00")
+user_input_time = st.text_input("Please input time you want to predict.","2021-07-2 12:00")
 
 try:
     info = pd.read_csv("car_park_district.csv")
